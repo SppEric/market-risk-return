@@ -1,4 +1,4 @@
-# final-project-money-makers
+# Risk, Return, and Market Anomalies: An Analysis of S&P 500 Companies
 
 ![abstract poster](./Data%20Science%20PDF%20Poster.png)
 
