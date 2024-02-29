@@ -1,0 +1,4520 @@
+{
+  "MMM": {
+    "company name": "3M",
+    "stock symbol": "MMM",
+    "price": 147.38,
+    "mean_return": 0.0014615141855065397,
+    "annualized_mean_return": 0.4448892827666897,
+    "annualized_risk": 0.2885120553311137,
+    "beta": 0.8045663731835179
+  },
+  "AOS": {
+    "company name": "A. O. Smith",
+    "stock symbol": "AOS",
+    "price": 63.79,
+    "mean_return": -0.00005678904456402596,
+    "annualized_mean_return": -0.01420932649544282,
+    "annualized_risk": 0.3379528127556472,
+    "beta": 0.9625685014455948
+  },
+  "ABT": {
+    "company name": "Abbott",
+    "stock symbol": "ABT",
+    "price": 117.69,
+    "mean_return": 0.0006092106110958743,
+    "annualized_mean_return": 0.16587785824102563,
+    "annualized_risk": 0.2509909987352275,
+    "beta": 0.8230932449294628
+  },
+  "ABBV": {
+    "company name": "AbbVie",
+    "stock symbol": "ABBV",
+    "price": 162.31,
+    "mean_return": 0.00016189017043816235,
+    "annualized_mean_return": 0.04163648640041262,
+    "annualized_risk": 0.21989297737441935,
+    "beta": 0.3715180143166492
+  },
+  "ACN": {
+    "company name": "Accenture",
+    "stock symbol": "ACN",
+    "price": 319.47,
+    "mean_return": 0.00072985869421538,
+    "annualized_mean_return": 0.20184431269394842,
+    "annualized_risk": 0.3227069911656583,
+    "beta": 1.2112255179930471
+  },
+  "ATVI": {
+    "company name": "Activision Blizzard",
+    "stock symbol": "ATVI",
+    "price": 78.93,
+    "mean_return": -0.00025440609998070383,
+    "annualized_mean_return": -0.06210614148200899,
+    "annualized_risk": 0.1812471546413097,
+    "beta": 0.3527483922945418
+  },
+  "ADM": {
+    "company name": "ADM",
+    "stock symbol": "ADM",
+    "price": 96.91,
+    "mean_return": 0.0008202838843147335,
+    "annualized_mean_return": 0.22952363298235734,
+    "annualized_risk": 0.30663502975495616,
+    "beta": 0.6684931102888705
+  },
+  "ADBE": {
+    "company name": "Adobe Inc.",
+    "stock symbol": "ADBE",
+    "price": 420.44,
+    "mean_return": 0.0007868604132750433,
+    "annualized_mean_return": 0.21921944186121167,
+    "annualized_risk": 0.43254286007998405,
+    "beta": 1.3778161583942516
+  },
+  "ADP": {
+    "company name": "ADP",
+    "stock symbol": "ADP",
+    "price": 229.2,
+    "mean_return": 0.00035333453824975663,
+    "annualized_mean_return": 0.09310752112059717,
+    "annualized_risk": 0.2680944483454858,
+    "beta": 0.9481751760271511
+  },
+  "AAP": {
+    "company name": "Advance Auto Parts",
+    "stock symbol": "AAP",
+    "price": 218.68,
+    "mean_return": 0.002455031506659149,
+    "annualized_mean_return": 0.8550464862026295,
+    "annualized_risk": 0.3868931559483892,
+    "beta": 0.8511360195772081
+  },
+  "AES": {
+    "company name": "AES Corporation",
+    "stock symbol": "AES",
+    "price": 24.41,
+    "mean_return": 0.00024428660662228645,
+    "annualized_mean_return": 0.063486548156241,
+    "annualized_risk": 0.3524136779996691,
+    "beta": 1.0596379040628283
+  },
+  "AFL": {
+    "company name": "Aflac",
+    "stock symbol": "AFL",
+    "price": 65.33,
+    "mean_return": 0.000017582503633588208,
+    "annualized_mean_return": 0.004440582258548931,
+    "annualized_risk": 0.2374657953302693,
+    "beta": 0.6846079108920159
+  },
+  "A": {
+    "company name": "Agilent Technologies",
+    "stock symbol": "A",
+    "price": 126.44,
+    "mean_return": -0.00015741376210458226,
+    "annualized_mean_return": -0.03889478447173467,
+    "annualized_risk": 0.33155834684484375,
+    "beta": 1.066588758530859
+  },
+  "APD": {
+    "company name": "Air Products and Chemicals",
+    "stock symbol": "APD",
+    "price": 246.84,
+    "mean_return": -0.0004572047811626591,
+    "annualized_mean_return": -0.10884949733265403,
+    "annualized_risk": 0.2766687008014323,
+    "beta": 0.7791920316466635
+  },
+  "AKAM": {
+    "company name": "Akamai",
+    "stock symbol": "AKAM",
+    "price": 118.99,
+    "mean_return": 0.001633146756240829,
+    "annualized_mean_return": 0.5086531283545537,
+    "annualized_risk": 0.31617756864869384,
+    "beta": 0.8020216486476451
+  },
+  "ALK": {
+    "company name": "Alaska Air Group",
+    "stock symbol": "ALK",
+    "price": 57.11,
+    "mean_return": 0.0014430870124002345,
+    "annualized_mean_return": 0.4382049655222666,
+    "annualized_risk": 0.3735556250940851,
+    "beta": 1.1315146294875222
+  },
+  "ALB": {
+    "company name": "Albemarle Corporation",
+    "stock symbol": "ALB",
+    "price": 210.89,
+    "mean_return": 0.0006358645755653433,
+    "annualized_mean_return": 0.17373027916355333,
+    "annualized_risk": 0.5189158513831242,
+    "beta": 1.2978184546108116
+  },
+  "ARE": {
+    "company name": "Alexandria Real Estate Equities",
+    "stock symbol": "ARE",
+    "price": 196.18,
+    "mean_return": 0.0020574088481612883,
+    "annualized_mean_return": 0.6785568574473952,
+    "annualized_risk": 0.3316481196228735,
+    "beta": 1.0223527838318902
+  },
+  "ALGN": {
+    "company name": "Align Technology",
+    "stock symbol": "ALGN",
+    "price": 409.82,
+    "mean_return": 0.0014250475505497638,
+    "annualized_mean_return": 0.43169112400196696,
+    "annualized_risk": 0.628086268050993,
+    "beta": 1.614923144587251
+  },
+  "ALLE": {
+    "company name": "Allegion",
+    "stock symbol": "ALLE",
+    "price": 107.43,
+    "mean_return": 0.0003192771271126494,
+    "annualized_mean_return": 0.08376923183417984,
+    "annualized_risk": 0.31988920123039083,
+    "beta": 1.0381309154890548
+  },
+  "LNT": {
+    "company name": "Alliant Energy",
+    "stock symbol": "LNT",
+    "price": 63.39,
+    "mean_return": 0.0007373179851192169,
+    "annualized_mean_return": 0.20410393454913178,
+    "annualized_risk": 0.25276852989033743,
+    "beta": 0.5986573896451187
+  },
+  "ALL": {
+    "company name": "Allstate",
+    "stock symbol": "ALL",
+    "price": 141.16,
+    "mean_return": 0.0010480121057465427,
+    "annualized_mean_return": 0.30207709887675516,
+    "annualized_risk": 0.3253797051880064,
+    "beta": 0.7173700961638502
+  },
+  "GOOGL": {
+    "company name": "Alphabet Inc. (Class A)",
+    "stock symbol": "GOOGL",
+    "price": 126.73,
+    "mean_return": 0.001075161246059478,
+    "annualized_mean_return": 0.3110063991461085,
+    "annualized_risk": 0.39629362925742295,
+    "beta": 1.3394210675473364
+  },
+  "GOOG": {
+    "company name": "Alphabet Inc. (Class C)",
+    "stock symbol": "GOOG",
+    "price": 127.253,
+    "mean_return": 0.001071998469626381,
+    "annualized_mean_return": 0.3099630372475395,
+    "annualized_risk": 0.3988702779362715,
+    "beta": 1.33629197386647
+  },
+  "MO": {
+    "company name": "Altria",
+    "stock symbol": "MO",
+    "price": 54.98,
+    "mean_return": 0.0008226826257887586,
+    "annualized_mean_return": 0.2302664731976003,
+    "annualized_risk": 0.2562146984984319,
+    "beta": 0.40255567434363354
+  },
+  "AMZN": {
+    "company name": "Amazon",
+    "stock symbol": "AMZN",
+    "price": 151.707,
+    "mean_return": 0.0020247851557871543,
+    "annualized_mean_return": 0.6648416043336258,
+    "annualized_risk": 0.48481775960577506,
+    "beta": 1.6569238087943359
+  },
+  "AMCR": {
+    "company name": "Amcor",
+    "stock symbol": "AMCR",
+    "price": 11.67,
+    "mean_return": 0.00032122383816884394,
+    "annualized_mean_return": 0.0843008579278599,
+    "annualized_risk": 0.26949458217363104,
+    "beta": 0.8615783396633958
+  },
+  "AMD": {
+    "company name": "AMD",
+    "stock symbol": "AMD",
+    "price": 93.06,
+    "mean_return": 0.0007845230306913657,
+    "annualized_mean_return": 0.21850207164976232,
+    "annualized_risk": 0.5705249460183778,
+    "beta": 1.9078621153191795
+  },
+  "AEE": {
+    "company name": "Ameren",
+    "stock symbol": "AEE",
+    "price": 96.25,
+    "mean_return": 0.0004502347119753715,
+    "annualized_mean_return": 0.12011752569537326,
+    "annualized_risk": 0.23357449739796626,
+    "beta": 0.5809698016495408
+  },
+  "AAL": {
+    "company name": "American Airlines Group",
+    "stock symbol": "AAL",
+    "price": 19,
+    "mean_return": 0.0019411327937048865,
+    "annualized_mean_return": 0.6301814211594299,
+    "annualized_risk": 0.5151359099175842,
+    "beta": 1.4476064080069677
+  },
+  "AEP": {
+    "company name": "American Electric Power",
+    "stock symbol": "AEP",
+    "price": 102.04,
+    "mean_return": 0.0005098208122070498,
+    "annualized_mean_return": 0.13705559094853137,
+    "annualized_risk": 0.24581960207500253,
+    "beta": 0.6168064368133801
+  },
+  "AXP": {
+    "company name": "American Express",
+    "stock symbol": "AXP",
+    "price": 181.16,
+    "mean_return": 0.0006080952213582037,
+    "annualized_mean_return": 0.16555040070573823,
+    "annualized_risk": 0.33501194745560353,
+    "beta": 1.1233638565493533
+  },
+  "AIG": {
+    "company name": "American International Group",
+    "stock symbol": "AIG",
+    "price": 63.03,
+    "mean_return": 0.000942492278321545,
+    "annualized_mean_return": 0.26794337700519466,
+    "annualized_risk": 0.32957036363032227,
+    "beta": 0.9564027727837354
+  },
+  "AMT": {
+    "company name": "American Tower",
+    "stock symbol": "AMT",
+    "price": 255.54,
+    "mean_return": 0.0010171563687863731,
+    "annualized_mean_return": 0.2920022318188622,
+    "annualized_risk": 0.3204143530230428,
+    "beta": 0.8903939561744295
+  },
+  "AWK": {
+    "company name": "American Water Works",
+    "stock symbol": "AWK",
+    "price": 166.16,
+    "mean_return": 0.0006032415077515441,
+    "annualized_mean_return": 0.1641265076419307,
+    "annualized_risk": 0.27253193163387823,
+    "beta": 0.7872190845719448
+  },
+  "AMP": {
+    "company name": "Ameriprise Financial",
+    "stock symbol": "AMP",
+    "price": 290.73,
+    "mean_return": -0.00009565077743815798,
+    "annualized_mean_return": -0.02381694008766666,
+    "annualized_risk": 0.34182058592298137,
+    "beta": 1.2136900054867479
+  },
+  "ABC": {
+    "company name": "AmerisourceBergen",
+    "stock symbol": "ABC",
+    "price": 161.21,
+    "mean_return": -0.000038701851202688475,
+    "annualized_mean_return": -0.009705648437287051,
+    "annualized_risk": 0.23774301595627884,
+    "beta": 0.4956025952186246
+  },
+  "AME": {
+    "company name": "Ametek",
+    "stock symbol": "AME",
+    "price": 127.05,
+    "mean_return": -0.0002447194183659525,
+    "annualized_mean_return": -0.05981333203945405,
+    "annualized_risk": 0.24559128729513904,
+    "beta": 0.8740129978354372
+  },
+  "AMGN": {
+    "company name": "Amgen",
+    "stock symbol": "AMGN",
+    "price": 254.02,
+    "mean_return": 0.00021190869038786598,
+    "annualized_mean_return": 0.054846578056647166,
+    "annualized_risk": 0.2084137874898515,
+    "beta": 0.3374917558236576
+  },
+  "APH": {
+    "company name": "Amphenol",
+    "stock symbol": "APH",
+    "price": 70.38,
+    "mean_return": -0.00027728619392003835,
+    "annualized_mean_return": -0.06749970443171249,
+    "annualized_risk": 0.2769878024606021,
+    "beta": 1.0371416206453345
+  },
+  "ADI": {
+    "company name": "Analog Devices",
+    "stock symbol": "ADI",
+    "price": 156.5,
+    "mean_return": -0.0005394811392330655,
+    "annualized_mean_return": -0.12714508767100763,
+    "annualized_risk": 0.33390188802054777,
+    "beta": 1.1822820470825968
+  },
+  "ANSS": {
+    "company name": "Ansys",
+    "stock symbol": "ANSS",
+    "price": 282.33,
+    "mean_return": -0.00021242232428788757,
+    "annualized_mean_return": -0.052128289209182554,
+    "annualized_risk": 0.38940800705350004,
+    "beta": 1.3901731926648822
+  },
+  "AON": {
+    "company name": "Aon",
+    "stock symbol": "AON",
+    "price": 328.26,
+    "mean_return": 0.00009238611013653819,
+    "annualized_mean_return": 0.02355332396537113,
+    "annualized_risk": 0.2634614194095055,
+    "beta": 0.8469552124483156
+  },
+  "APA": {
+    "company name": "APA Corporation",
+    "stock symbol": "APA",
+    "price": 43.68,
+    "mean_return": 0.001090495913701138,
+    "annualized_mean_return": 0.31607686894021647,
+    "annualized_risk": 0.5925129713782326,
+    "beta": 1.250431448866093
+  },
+  "AAPL": {
+    "company name": "Apple Inc.",
+    "stock symbol": "AAPL",
+    "price": 165.29,
+    "mean_return": 0.00020551885145270266,
+    "annualized_mean_return": 0.05314974319796706,
+    "annualized_risk": 0.3440107729196648,
+    "beta": 1.2890749780055146
+  },
+  "AMAT": {
+    "company name": "Applied Materials",
+    "stock symbol": "AMAT",
+    "price": 113.36,
+    "mean_return": 0.0005087788252351336,
+    "annualized_mean_return": 0.13675721321586543,
+    "annualized_risk": 0.4693225852728844,
+    "beta": 1.6275712928766095
+  },
+  "APTV": {
+    "company name": "Aptiv",
+    "stock symbol": "APTV",
+    "price": 107.51,
+    "mean_return": 0.000444926067472304,
+    "annualized_mean_return": 0.11862072799972578,
+    "annualized_risk": 0.47488914490964046,
+    "beta": 1.5906572445597231
+  },
+  "ACGL": {
+    "company name": "Arch Capital Group",
+    "stock symbol": "ACGL",
+    "price": 48.98,
+    "mean_return": -0.0013748299506180929,
+    "annualized_mean_return": -0.2929794350598729,
+    "annualized_risk": 0.29001892235624804,
+    "beta": 0.6210204723492763
+  },
+  "ANET": {
+    "company name": "Arista Networks",
+    "stock symbol": "ANET",
+    "price": 126.58,
+    "mean_return": -0.0006689219019149594,
+    "annualized_mean_return": -0.1551741131807436,
+    "annualized_risk": 0.4061128679866606,
+    "beta": 1.2545374980645907
+  },
+  "AJG": {
+    "company name": "Arthur J. Gallagher & Co.",
+    "stock symbol": "AJG",
+    "price": 180.61,
+    "mean_return": -0.0004051899069544985,
+    "annualized_mean_return": -0.09708652412592667,
+    "annualized_risk": 0.2554856905692165,
+    "beta": 0.8102360848467134
+  },
+  "AIZ": {
+    "company name": "Assurant",
+    "stock symbol": "AIZ",
+    "price": 189.3,
+    "mean_return": 0.00209232498909403,
+    "annualized_mean_return": 0.6933605737712745,
+    "annualized_risk": 0.3132487782877227,
+    "beta": 0.6242197974029863
+  },
+  "T": {
+    "company name": "AT&T",
+    "stock symbol": "T",
+    "price": 19.54,
+    "mean_return": 0.00006543754970061327,
+    "annualized_mean_return": 0.016626428869594312,
+    "annualized_risk": 0.24837785281284985,
+    "beta": 0.5329000528728423
+  },
+  "ATO": {
+    "company name": "Atmos Energy",
+    "stock symbol": "ATO",
+    "price": 119.74,
+    "mean_return": 0.0003207812785127417,
+    "annualized_mean_return": 0.08417997678240874,
+    "annualized_risk": 0.23768775676504772,
+    "beta": 0.6151314533435599
+  },
+  "ADSK": {
+    "company name": "Autodesk",
+    "stock symbol": "ADSK",
+    "price": 196.73,
+    "mean_return": 0.00041059822908317097,
+    "annualized_mean_return": 0.1089898069168389,
+    "annualized_risk": 0.46371972748895435,
+    "beta": 1.5327178338436662
+  },
+  "AZO": {
+    "company name": "AutoZone",
+    "stock symbol": "AZO",
+    "price": 2164.6,
+    "mean_return": -0.0006931439147136718,
+    "annualized_mean_return": -0.16031867237992992,
+    "annualized_risk": 0.28334445000963326,
+    "beta": 0.5287983181406812
+  },
+  "AVB": {
+    "company name": "AvalonBay Communities",
+    "stock symbol": "AVB",
+    "price": 246.61,
+    "mean_return": 0.0015548411658603527,
+    "annualized_mean_return": 0.4792211219012932,
+    "annualized_risk": 0.2792815631290262,
+    "beta": 0.7703637674546951
+  },
+  "AVY": {
+    "company name": "Avery Dennison",
+    "stock symbol": "AVY",
+    "price": 166.49,
+    "mean_return": -0.00010277631542765244,
+    "annualized_mean_return": -0.02556840991428444,
+    "annualized_risk": 0.3115658936701988,
+    "beta": 0.957826938130023
+  },
+  "BKR": {
+    "company name": "Baker Hughes",
+    "stock symbol": "BKR",
+    "price": 37.29,
+    "mean_return": 0.0012868125552536495,
+    "annualized_mean_return": 0.3827417465857019,
+    "annualized_risk": 0.4260168429714577,
+    "beta": 0.8880889238070541
+  },
+  "BALL": {
+    "company name": "Ball Corporation",
+    "stock symbol": "BALL",
+    "price": 87.15,
+    "mean_return": 0.002411391183561361,
+    "annualized_mean_return": 0.8348066135158185,
+    "annualized_risk": 0.4319286229065693,
+    "beta": 1.0501334737843182
+  },
+  "BAC": {
+    "company name": "Bank of America",
+    "stock symbol": "BAC",
+    "price": 37.57,
+    "mean_return": 0.0010145240103622197,
+    "annualized_mean_return": 0.2911463299272181,
+    "annualized_risk": 0.31356368890388847,
+    "beta": 0.9603073423628559
+  },
+  "BBWI": {
+    "company name": "Bath & Body Works, Inc.",
+    "stock symbol": "BBWI",
+    "price": 52.19,
+    "mean_return": 0.002191071550194944,
+    "annualized_mean_return": 0.7359347214402421,
+    "annualized_risk": 0.5666434324876679,
+    "beta": 1.276949202915309
+  },
+  "BAX": {
+    "company name": "Baxter International",
+    "stock symbol": "BAX",
+    "price": 76.44,
+    "mean_return": 0.002557110560300776,
+    "annualized_mean_return": 0.9032622212004511,
+    "annualized_risk": 0.3644701969584177,
+    "beta": 0.654186571284534
+  },
+  "BDX": {
+    "company name": "Becton Dickinson",
+    "stock symbol": "BDX",
+    "price": 271.68,
+    "mean_return": 0.00037672351882842454,
+    "annualized_mean_return": 0.09956698162859512,
+    "annualized_risk": 0.22856522844307173,
+    "beta": 0.6109991852989715
+  },
+  "WRB": {
+    "company name": "Berkley",
+    "stock symbol": "WRB",
+    "price": 68.22,
+    "mean_return": 0.00044507840996272556,
+    "annualized_mean_return": 0.11866365391537581,
+    "annualized_risk": 0.25234233193930594,
+    "beta": 0.5187088190739488
+  },
+  "BRK.B": {
+    "company name": "Berkshire Hathaway",
+    "stock symbol": "BRK.B",
+    "price": 344.33,
+    "mean_return": 0.00032912216433074963,
+    "annualized_mean_return": 0.08646047297399861,
+    "annualized_risk": 0.21953385272662806,
+    "beta": 0.8270586880564124
+  },
+  "BBY": {
+    "company name": "Best Buy",
+    "stock symbol": "BBY",
+    "price": 93.84,
+    "mean_return": 0.0012845296687918292,
+    "annualized_mean_return": 0.3819475222842186,
+    "annualized_risk": 0.41562940727263864,
+    "beta": 1.1916961928288496
+  },
+  "BIO": {
+    "company name": "Bio-Rad",
+    "stock symbol": "BIO",
+    "price": 548.19,
+    "mean_return": 0.0008343648229424031,
+    "annualized_mean_return": 0.23389060076992996,
+    "annualized_risk": 0.3903427639782058,
+    "beta": 1.0227075164018957
+  },
+  "TECH": {
+    "company name": "Bio-Techne",
+    "stock symbol": "TECH",
+    "price": 104.52,
+    "mean_return": 0.0011326513235195308,
+    "annualized_mean_return": 0.33011660351326766,
+    "annualized_risk": 0.3768348754608831,
+    "beta": 1.1593944519496282
+  },
+  "BIIB": {
+    "company name": "Biogen",
+    "stock symbol": "BIIB",
+    "price": 212.55,
+    "mean_return": -0.0009137888439936197,
+    "annualized_mean_return": -0.20576831381046268,
+    "annualized_risk": 0.40990307553008426,
+    "beta": 0.8990350897564605
+  },
+  "BLK": {
+    "company name": "BlackRock",
+    "stock symbol": "BLK",
+    "price": 688.17,
+    "mean_return": 0.0002063006195224947,
+    "annualized_mean_return": 0.05335719726346677,
+    "annualized_risk": 0.3469391334742668,
+    "beta": 1.2743326541851865
+  },
+  "BK": {
+    "company name": "BNY Mellon",
+    "stock symbol": "BK",
+    "price": 47.29,
+    "mean_return": 0.0003797841914595161,
+    "annualized_mean_return": 0.10041507232553992,
+    "annualized_risk": 0.2957250195248173,
+    "beta": 0.9237925825146462
+  },
+  "BA": {
+    "company name": "Boeing",
+    "stock symbol": "BA",
+    "price": 181.94,
+    "mean_return": -0.0001430292011630932,
+    "annualized_mean_return": -0.03540401776094737,
+    "annualized_risk": 0.4491374073336206,
+    "beta": 1.2063863898745497
+  },
+  "BKNG": {
+    "company name": "Booking Holdings",
+    "stock symbol": "BKNG",
+    "price": 2227.29,
+    "mean_return": -0.0004817290330091681,
+    "annualized_mean_return": -0.11434249439368105,
+    "annualized_risk": 0.3758360832639866,
+    "beta": 1.116598216420649
+  },
+  "BWA": {
+    "company name": "BorgWarner",
+    "stock symbol": "BWA",
+    "price": 37.01,
+    "mean_return": -0.0008422167586364051,
+    "annualized_mean_return": -0.19130063885067317,
+    "annualized_risk": 0.3408125544753716,
+    "beta": 1.070443084294388
+  },
+  "BXP": {
+    "company name": "Boston Properties",
+    "stock symbol": "BXP",
+    "price": 124.59,
+    "mean_return": 0.0036701387120982774,
+    "annualized_mean_return": 1.5172873844920391,
+    "annualized_risk": 0.3541747927726095,
+    "beta": 1.0001130225164407
+  },
+  "BSX": {
+    "company name": "Boston Scientific",
+    "stock symbol": "BSX",
+    "price": 44.25,
+    "mean_return": -0.0004885076060236118,
+    "annualized_mean_return": -0.115854816511333,
+    "annualized_risk": 0.2484959852399993,
+    "beta": 0.7714542011510663
+  },
+  "BMY": {
+    "company name": "Bristol Myers Squibb",
+    "stock symbol": "BMY",
+    "price": 77.51,
+    "mean_return": 0.0004695079288711281,
+    "annualized_mean_return": 0.1255684890423996,
+    "annualized_risk": 0.1991562867844801,
+    "beta": 0.3048368832015461
+  },
+  "AVGO": {
+    "company name": "Broadcom Inc.",
+    "stock symbol": "AVGO",
+    "price": 573.85,
+    "mean_return": -0.00015480955423717073,
+    "annualized_mean_return": -0.03826374364157192,
+    "annualized_risk": 0.34087256331254057,
+    "beta": 1.2137195784110615
+  },
+  "BR": {
+    "company name": "Broadridge Financial Solutions",
+    "stock symbol": "BR",
+    "price": 153.52,
+    "mean_return": 0.0003659921711564049,
+    "annualized_mean_return": 0.0965985410038861,
+    "annualized_risk": 0.2866860404537256,
+    "beta": 0.9569359261694226
+  },
+  "BRO": {
+    "company name": "Brown & Brown",
+    "stock symbol": "BRO",
+    "price": 71.26,
+    "mean_return": 0.0008562833820568381,
+    "annualized_mean_return": 0.2407190357616702,
+    "annualized_risk": 0.3188651630256487,
+    "beta": 0.9154268702869368
+  },
+  "BF.B": {
+    "company name": "Brown–Forman",
+    "stock symbol": "BF.B",
+    "price": 68.5,
+    "mean_return": 0.0004039079402228873,
+    "annualized_mean_return": 0.10712243753708783,
+    "annualized_risk": 0.24161366291210568,
+    "beta": 0.6714766202636411
+  },
+  "BG": {
+    "company name": "Bunge Limited",
+    "stock symbol": "BG",
+    "price": 123.96,
+    "mean_return": 0.0012112153043020144,
+    "annualized_mean_return": 0.3566813834127307,
+    "annualized_risk": 0.3695284731716909,
+    "beta": 0.698545903178044
+  },
+  "CHRW": {
+    "company name": "C.H. Robinson",
+    "stock symbol": "CHRW",
+    "price": 103.28,
+    "mean_return": 0.000480725461930687,
+    "annualized_mean_return": 0.12875325280016003,
+    "annualized_risk": 0.30873110914171586,
+    "beta": 0.7899167983320767
+  },
+  "CDNS": {
+    "company name": "Cadence Design Systems",
+    "stock symbol": "CDNS",
+    "price": 149.8,
+    "mean_return": -0.001152698815080879,
+    "annualized_mean_return": -0.25222088707989176,
+    "annualized_risk": 0.36057030977736554,
+    "beta": 1.2016024955307232
+  },
+  "CZR": {
+    "company name": "Caesars Entertainment",
+    "stock symbol": "CZR",
+    "price": 68.88,
+    "mean_return": 0.0026102345797292593,
+    "annualized_mean_return": 0.9288464427480962,
+    "annualized_risk": 0.6660949498244838,
+    "beta": 2.1091765257640835
+  },
+  "CPT": {
+    "company name": "Camden Property Trust",
+    "stock symbol": "CPT",
+    "price": 164.62,
+    "mean_return": 0.0018924875833544288,
+    "annualized_mean_return": 0.6103574441928545,
+    "annualized_risk": 0.2684828946235904,
+    "beta": 0.7622487020783164
+  },
+  "CPB": {
+    "company name": "Campbell Soup Company",
+    "stock symbol": "CPB",
+    "price": 46.2,
+    "mean_return": -0.0006005467552683257,
+    "annualized_mean_return": -0.1404817690185869,
+    "annualized_risk": 0.22528884906118812,
+    "beta": 0.2510615738836046
+  },
+  "COF": {
+    "company name": "Capital One",
+    "stock symbol": "COF",
+    "price": 132.59,
+    "mean_return": 0.0015848489728812814,
+    "annualized_mean_return": 0.490431678514897,
+    "annualized_risk": 0.42998651299857,
+    "beta": 1.3931940773663825
+  },
+  "CAH": {
+    "company name": "Cardinal Health",
+    "stock symbol": "CAH",
+    "price": 62.96,
+    "mean_return": -0.0007950852700724376,
+    "annualized_mean_return": -0.18163037696526485,
+    "annualized_risk": 0.25387833289242406,
+    "beta": 0.5034909080223801
+  },
+  "KMX": {
+    "company name": "CarMax",
+    "stock symbol": "KMX",
+    "price": 91.79,
+    "mean_return": 0.001750843627366067,
+    "annualized_mean_return": 0.5539915233713926,
+    "annualized_risk": 0.5770532670278324,
+    "beta": 1.513398249494496
+  },
+  "CCL": {
+    "company name": "Carnival",
+    "stock symbol": "CCL",
+    "price": 19.56,
+    "mean_return": 0.003903228803173756,
+    "annualized_mean_return": 1.6689870126791067,
+    "annualized_risk": 0.7831131957691226,
+    "beta": 2.0709671812453796
+  },
+  "CARR": {
+    "company name": "Carrier Global",
+    "stock symbol": "CARR",
+    "price": 41.28,
+    "mean_return": -0.00010195884355232664,
+    "annualized_mean_return": -0.025367632935956008,
+    "annualized_risk": 0.33711248111035064,
+    "beta": 1.1015892452909184
+  },
+  "CTLT": {
+    "company name": "Catalent",
+    "stock symbol": "CTLT",
+    "price": 97.32,
+    "mean_return": 0.004268380376051545,
+    "annualized_mean_return": 1.9251412300957327,
+    "annualized_risk": 0.7164622674645577,
+    "beta": 1.2294851121344843
+  },
+  "CAT": {
+    "company name": "Caterpillar Inc.",
+    "stock symbol": "CAT",
+    "price": 227.81,
+    "mean_return": 0.00026803073490857957,
+    "annualized_mean_return": 0.06986737791093267,
+    "annualized_risk": 0.33608773283368387,
+    "beta": 0.9225321850269164
+  },
+  "CBOE": {
+    "company name": "Cboe Global Markets",
+    "stock symbol": "CBOE",
+    "price": 117.33,
+    "mean_return": -0.0005112046337373057,
+    "annualized_mean_return": -0.1208998983806997,
+    "annualized_risk": 0.2356696762580852,
+    "beta": 0.48460917027180017
+  },
+  "CBRE": {
+    "company name": "CBRE Group",
+    "stock symbol": "CBRE",
+    "price": 85.56,
+    "mean_return": 0.0009037164733539356,
+    "annualized_mean_return": 0.25562531643935205,
+    "annualized_risk": 0.331724936645799,
+    "beta": 1.1665979623352691
+  },
+  "CDW": {
+    "company name": "CDW",
+    "stock symbol": "CDW",
+    "price": 172.97,
+    "mean_return": -0.00020668593045944107,
+    "annualized_mean_return": -0.05075679466034011,
+    "annualized_risk": 0.2950098068591003,
+    "beta": 1.0773245066535537
+  },
+  "CE": {
+    "company name": "Celanese",
+    "stock symbol": "CE",
+    "price": 145.17,
+    "mean_return": 0.0014565046306010097,
+    "annualized_mean_return": 0.4430690481337487,
+    "annualized_risk": 0.4115716740993553,
+    "beta": 1.270255392403629
+  },
+  "CNC": {
+    "company name": "Centene Corporation",
+    "stock symbol": "CNC",
+    "price": 86.54,
+    "mean_return": 0.0010965228402760737,
+    "annualized_mean_return": 0.3180750393959655,
+    "annualized_risk": 0.31311482682853675,
+    "beta": 0.5751344863898213
+  },
+  "CNP": {
+    "company name": "CenterPoint Energy",
+    "stock symbol": "CNP",
+    "price": 32.4,
+    "mean_return": 0.00038918441041589755,
+    "annualized_mean_return": 0.10302388194676038,
+    "annualized_risk": 0.24076566474661504,
+    "beta": 0.6252301734931802
+  },
+  "CDAY": {
+    "company name": "Ceridian",
+    "stock symbol": "CDAY",
+    "price": 60.63,
+    "mean_return": 0.00004987077041251589,
+    "annualized_mean_return": 0.012646418877638288,
+    "annualized_risk": 0.5239234336621664,
+    "beta": 1.705942021567121
+  },
+  "CF": {
+    "company name": "CF Industries",
+    "stock symbol": "CF",
+    "price": 108.41,
+    "mean_return": 0.001867759841291431,
+    "annualized_mean_return": 0.6003725920729888,
+    "annualized_risk": 0.45607877399634683,
+    "beta": 0.7016855978825298
+  },
+  "CRL": {
+    "company name": "Charles River Laboratories",
+    "stock symbol": "CRL",
+    "price": 284.63,
+    "mean_return": 0.0016991051872558048,
+    "annualized_mean_return": 0.5338963955996332,
+    "annualized_risk": 0.46048280745341524,
+    "beta": 1.1465736854097408
+  },
+  "SCHW": {
+    "company name": "Charles Schwab Corporation",
+    "stock symbol": "SCHW",
+    "price": 82.75,
+    "mean_return": 0.002062555151422454,
+    "annualized_mean_return": 0.6807306561052795,
+    "annualized_risk": 0.43666844780556363,
+    "beta": 0.9316912087498586
+  },
+  "CHTR": {
+    "company name": "Charter Communications",
+    "stock symbol": "CHTR",
+    "price": 555.32,
+    "mean_return": 0.002260276443232993,
+    "annualized_mean_return": 0.7664058995840595,
+    "annualized_risk": 0.42698892849012565,
+    "beta": 0.9636122595695844
+  },
+  "CVX": {
+    "company name": "Chevron Corporation",
+    "stock symbol": "CVX",
+    "price": 171.59,
+    "mean_return": 0.0002283694745698502,
+    "annualized_mean_return": 0.059230326560467006,
+    "annualized_risk": 0.32132521837698946,
+    "beta": 0.7475624688531621
+  },
+  "CMG": {
+    "company name": "Chipotle Mexican Grill",
+    "stock symbol": "CMG",
+    "price": 1603.17,
+    "mean_return": -0.00016002838768452502,
+    "annualized_mean_return": -0.0395279347872417,
+    "annualized_risk": 0.3559287127362259,
+    "beta": 1.1139391604131834
+  },
+  "CB": {
+    "company name": "Chubb Limited",
+    "stock symbol": "CB",
+    "price": 210.52,
+    "mean_return": 0.0002810315221509648,
+    "annualized_mean_return": 0.0733772585092447,
+    "annualized_risk": 0.2375039233369339,
+    "beta": 0.5971380624642045
+  },
+  "CHD": {
+    "company name": "Church & Dwight",
+    "stock symbol": "CHD",
+    "price": 102.65,
+    "mean_return": 0.0006617507723649637,
+    "annualized_mean_return": 0.18140692999527275,
+    "annualized_risk": 0.24099017039469628,
+    "beta": 0.40080365722500727
+  },
+  "CI": {
+    "company name": "Cigna",
+    "stock symbol": "CI",
+    "price": 259.21,
+    "mean_return": 0.0001257374969215393,
+    "annualized_mean_return": 0.032191134068688454,
+    "annualized_risk": 0.260161697824652,
+    "beta": 0.5130757307285793
+  },
+  "CINF": {
+    "company name": "Cincinnati Financial",
+    "stock symbol": "CINF",
+    "price": 138.19,
+    "mean_return": 0.0012245332871127462,
+    "annualized_mean_return": 0.3612366768044064,
+    "annualized_risk": 0.3520549317379575,
+    "beta": 0.8570758307236109
+  },
+  "CTAS": {
+    "company name": "Cintas",
+    "stock symbol": "CTAS",
+    "price": 413.67,
+    "mean_return": -0.0002827858205089955,
+    "annualized_mean_return": -0.0687915284706121,
+    "annualized_risk": 0.2637566792483241,
+    "beta": 0.9445137952224655
+  },
+  "CSCO": {
+    "company name": "Cisco",
+    "stock symbol": "CSCO",
+    "price": 51.17,
+    "mean_return": 0.00023364005655981956,
+    "annualized_mean_return": 0.060637791501744864,
+    "annualized_risk": 0.2938425586013788,
+    "beta": 0.8317896537995926
+  },
+  "C": {
+    "company name": "Citigroup",
+    "stock symbol": "C",
+    "price": 50.93,
+    "mean_return": 0.0002971173707697788,
+    "annualized_mean_return": 0.07773590513906514,
+    "annualized_risk": 0.3395015356356034,
+    "beta": 1.0473272203014716
+  },
+  "CFG": {
+    "company name": "Citizens Financial Group",
+    "stock symbol": "CFG",
+    "price": 40.87,
+    "mean_return": 0.0014330834011109714,
+    "annualized_mean_return": 0.43458913954200606,
+    "annualized_risk": 0.36665334073384637,
+    "beta": 1.0905277375521925
+  },
+  "CLX": {
+    "company name": "Clorox",
+    "stock symbol": "CLX",
+    "price": 145.57,
+    "mean_return": -0.00022685343923913048,
+    "annualized_mean_return": -0.05556985254364888,
+    "annualized_risk": 0.2847867657459855,
+    "beta": 0.5020218842078897
+  },
+  "CME": {
+    "company name": "CME Group",
+    "stock symbol": "CME",
+    "price": 237.66,
+    "mean_return": 0.0009715809397119323,
+    "annualized_mean_return": 0.27726303363987026,
+    "annualized_risk": 0.23786431446611866,
+    "beta": 0.4920117149661007
+  },
+  "CMS": {
+    "company name": "CMS Energy",
+    "stock symbol": "CMS",
+    "price": 71.55,
+    "mean_return": 0.000780472688022537,
+    "annualized_mean_return": 0.21725996916349977,
+    "annualized_risk": 0.24256821523684013,
+    "beta": 0.5498198584089251
+  },
+  "KO": {
+    "company name": "Coca-Cola Company (The)",
+    "stock symbol": "KO",
+    "price": 65.02,
+    "mean_return": 0.00016074328090233514,
+    "annualized_mean_return": 0.04133552866229029,
+    "annualized_risk": 0.18974222717837919,
+    "beta": 0.5188244537891271
+  },
+  "CTSH": {
+    "company name": "Cognizant",
+    "stock symbol": "CTSH",
+    "price": 84.74,
+    "mean_return": 0.0015449477133816704,
+    "annualized_mean_return": 0.47554348801761326,
+    "annualized_risk": 0.36001268845787243,
+    "beta": 1.083052161191509
+  },
+  "CL": {
+    "company name": "Colgate-Palmolive",
+    "stock symbol": "CL",
+    "price": 80.94,
+    "mean_return": 0.0003534738642407408,
+    "annualized_mean_return": 0.09314588740404095,
+    "annualized_risk": 0.2010932814251433,
+    "beta": 0.4356151783336455
+  },
+  "CMCSA": {
+    "company name": "Comcast",
+    "stock symbol": "CMCSA",
+    "price": 47.58,
+    "mean_return": 0.0010488310103182177,
+    "annualized_mean_return": 0.3023455469041272,
+    "annualized_risk": 0.30717280057900503,
+    "beta": 0.7985578736902683
+  },
+  "CMA": {
+    "company name": "Comerica",
+    "stock symbol": "CMA",
+    "price": 88.37,
+    "mean_return": 0.0032767691764949195,
+    "annualized_mean_return": 1.2805026778127693,
+    "annualized_risk": 0.561400671102899,
+    "beta": 1.1462026572539117
+  },
+  "CAG": {
+    "company name": "Conagra Brands",
+    "stock symbol": "CAG",
+    "price": 35.62,
+    "mean_return": -0.0000715241836567486,
+    "annualized_mean_return": -0.017863264916420096,
+    "annualized_risk": 0.22743821079382243,
+    "beta": 0.39037628583477146
+  },
+  "COP": {
+    "company name": "ConocoPhillips",
+    "stock symbol": "COP",
+    "price": 101.37,
+    "mean_return": 0.00023429051134301235,
+    "annualized_mean_return": 0.06081161910318933,
+    "annualized_risk": 0.43563745567916234,
+    "beta": 0.8104234577521279
+  },
+  "ED": {
+    "company name": "Consolidated Edison",
+    "stock symbol": "ED",
+    "price": 98.03,
+    "mean_return": 0.0001181641564232231,
+    "annualized_mean_return": 0.030223334396378698,
+    "annualized_risk": 0.22237675484424352,
+    "beta": 0.48051117577783237
+  },
+  "STZ": {
+    "company name": "Constellation Brands",
+    "stock symbol": "STZ",
+    "price": 251.42,
+    "mean_return": 0.0005186283540568617,
+    "annualized_mean_return": 0.13958078923802653,
+    "annualized_risk": 0.24759665817449375,
+    "beta": 0.6319252423419158
+  },
+  "CEG": {
+    "company name": "Constellation Energy",
+    "stock symbol": "CEG",
+    "price": 62.55,
+    "mean_return": -0.0003542207095850555,
+    "annualized_mean_return": -0.08541002789636976,
+    "annualized_risk": 0.41095321335456014,
+    "beta": 0.9949986283642624
+  },
+  "COO": {
+    "company name": "CooperCompanies",
+    "stock symbol": "COO",
+    "price": 399.62,
+    "mean_return": 0.0004434149932204521,
+    "annualized_mean_return": 0.11819503775047413,
+    "annualized_risk": 0.33514341948886156,
+    "beta": 1.0915325354103833
+  },
+  "CPRT": {
+    "company name": "Copart",
+    "stock symbol": "CPRT",
+    "price": 58.49,
+    "mean_return": -0.00095359637963861,
+    "annualized_mean_return": -0.21370319094037837,
+    "annualized_risk": 0.2959274175124593,
+    "beta": 1.0229684985569012
+  },
+  "GLW": {
+    "company name": "Corning Inc.",
+    "stock symbol": "GLW",
+    "price": 33.69,
+    "mean_return": 0.00007699917090762755,
+    "annualized_mean_return": 0.019592506527610798,
+    "annualized_risk": 0.29445891842696226,
+    "beta": 0.9964909817505883
+  },
+  "CTVA": {
+    "company name": "Corteva",
+    "stock symbol": "CTVA",
+    "price": 61.01,
+    "mean_return": 0.00003570784446505378,
+    "annualized_mean_return": 0.009038821801081509,
+    "annualized_risk": 0.28636714932433194,
+    "beta": 0.6380324525689037
+  },
+  "CSGP": {
+    "company name": "CoStar Group",
+    "stock symbol": "CSGP",
+    "price": 61.82,
+    "mean_return": -0.00023690912501777114,
+    "annualized_mean_return": -0.05796059351038285,
+    "annualized_risk": 0.351558383238602,
+    "beta": 1.041316033742728
+  },
+  "COST": {
+    "company name": "Costco",
+    "stock symbol": "COST",
+    "price": 590.39,
+    "mean_return": 0.000880605417004219,
+    "annualized_mean_return": 0.24834030579951016,
+    "annualized_risk": 0.31783528983484804,
+    "beta": 0.975556317542642
+  },
+  "CTRA": {
+    "company name": "Coterra",
+    "stock symbol": "CTRA",
+    "price": 29.42,
+    "mean_return": 0.0009078489259284211,
+    "annualized_mean_return": 0.2569323936162331,
+    "annualized_risk": 0.44131366843900416,
+    "beta": 0.8440381909965364
+  },
+  "CCI": {
+    "company name": "Crown Castle",
+    "stock symbol": "CCI",
+    "price": 192.68,
+    "mean_return": 0.0016781960496541233,
+    "annualized_mean_return": 0.5258489473285717,
+    "annualized_risk": 0.3086601530603528,
+    "beta": 0.8388665647879049
+  },
+  "CSX": {
+    "company name": "CSX",
+    "stock symbol": "CSX",
+    "price": 35.06,
+    "mean_return": 0.0007070093768908462,
+    "annualized_mean_return": 0.19494888451278958,
+    "annualized_risk": 0.26837519285803413,
+    "beta": 0.8831641567369206
+  },
+  "CMI": {
+    "company name": "Cummins",
+    "stock symbol": "CMI",
+    "price": 195.94,
+    "mean_return": -0.0005850598489162003,
+    "annualized_mean_return": -0.13711877517248972,
+    "annualized_risk": 0.2775870959704099,
+    "beta": 0.8297569712128419
+  },
+  "CVS": {
+    "company name": "CVS Health",
+    "stock symbol": "CVS",
+    "price": 103.68,
+    "mean_return": 0.0013571833082620375,
+    "annualized_mean_return": 0.40744825725647815,
+    "annualized_risk": 0.25959240983043863,
+    "beta": 0.6211155115190703
+  },
+  "DHI": {
+    "company name": "D.R. Horton",
+    "stock symbol": "DHI",
+    "price": 72.51,
+    "mean_return": -0.00105470184030059,
+    "annualized_mean_return": -0.23350348266810017,
+    "annualized_risk": 0.3930335694173026,
+    "beta": 1.1498411312386723
+  },
+  "DHR": {
+    "company name": "Danaher Corporation",
+    "stock symbol": "DHR",
+    "price": 276.98,
+    "mean_return": 0.000512861966030924,
+    "annualized_mean_return": 0.13792688540580156,
+    "annualized_risk": 0.3191259598942549,
+    "beta": 1.0504217597993866
+  },
+  "DRI": {
+    "company name": "Darden Restaurants",
+    "stock symbol": "DRI",
+    "price": 131.45,
+    "mean_return": -0.00040626808875657104,
+    "annualized_mean_return": -0.09733191357904147,
+    "annualized_risk": 0.28973721214812503,
+    "beta": 0.855569359159294
+  },
+  "DVA": {
+    "company name": "DaVita Inc.",
+    "stock symbol": "DVA",
+    "price": 121.45,
+    "mean_return": 0.001969636364606298,
+    "annualized_mean_return": 0.6419099894493407,
+    "annualized_risk": 0.5233629163561684,
+    "beta": 0.4498627231020655
+  },
+  "DE": {
+    "company name": "John Deere",
+    "stock symbol": "DE",
+    "price": 436.75,
+    "mean_return": 0.0006329864627322945,
+    "annualized_mean_return": 0.17287983884633285,
+    "annualized_risk": 0.36037546701876416,
+    "beta": 0.8224206434186423
+  },
+  "DAL": {
+    "company name": "Delta Air Lines",
+    "stock symbol": "DAL",
+    "price": 42.36,
+    "mean_return": 0.0010459529507801596,
+    "annualized_mean_return": 0.30140232345460105,
+    "annualized_risk": 0.409046351675576,
+    "beta": 1.184744826312762
+  },
+  "XRAY": {
+    "company name": "Dentsply Sirona",
+    "stock symbol": "XRAY",
+    "price": 49.07,
+    "mean_return": 0.0010526237048484929,
+    "annualized_mean_return": 0.3035895626834817,
+    "annualized_risk": 0.3902847515108363,
+    "beta": 0.9091975362664957
+  },
+  "DVN": {
+    "company name": "Devon Energy",
+    "stock symbol": "DVN",
+    "price": 62.56,
+    "mean_return": 0.0010564624064881862,
+    "annualized_mean_return": 0.30484987414624043,
+    "annualized_risk": 0.5374363896899976,
+    "beta": 1.0964158974202034
+  },
+  "DXCM": {
+    "company name": "Dexcom",
+    "stock symbol": "DXCM",
+    "price": 123.0275,
+    "mean_return": 0.0006574354354748641,
+    "annualized_mean_return": 0.18012373565757267,
+    "annualized_risk": 0.5123607643884543,
+    "beta": 1.3316065218952473
+  },
+  "FANG": {
+    "company name": "Diamondback Energy",
+    "stock symbol": "FANG",
+    "price": 138.44,
+    "mean_return": 0.0002483407025629028,
+    "annualized_mean_return": 0.06457332759495871,
+    "annualized_risk": 0.46495359908248446,
+    "beta": 0.9206724476182937
+  },
+  "DLR": {
+    "company name": "Digital Realty",
+    "stock symbol": "DLR",
+    "price": 145.02,
+    "mean_return": 0.0018420108041647056,
+    "annualized_mean_return": 0.5900408829391848,
+    "annualized_risk": 0.36790962437207075,
+    "beta": 0.9749019445082118
+  },
+  "DFS": {
+    "company name": "Discover Financial",
+    "stock symbol": "DFS",
+    "price": 112.18,
+    "mean_return": 0.0006128372145445062,
+    "annualized_mean_return": 0.16694319454716755,
+    "annualized_risk": 0.38891573352017555,
+    "beta": 1.2403921498546264
+  },
+  "DISH": {
+    "company name": "Dish Network",
+    "stock symbol": "DISH",
+    "price": 33.19,
+    "mean_return": 0.006680978163632624,
+    "annualized_mean_return": 4.354874956245892,
+    "annualized_risk": 0.6877643908823827,
+    "beta": 1.7312203352499578
+  },
+  "DIS": {
+    "company name": "Disney",
+    "stock symbol": "DIS",
+    "price": 130.47,
+    "mean_return": 0.0012847248806252406,
+    "annualized_mean_return": 0.38201541940413586,
+    "annualized_risk": 0.3690869234138817,
+    "beta": 1.191369418174234
+  },
+  "DG": {
+    "company name": "Dollar General",
+    "stock symbol": "DG",
+    "price": 248.77,
+    "mean_return": 0.0007377063095274079,
+    "annualized_mean_return": 0.20422168437131982,
+    "annualized_risk": 0.30412843903486053,
+    "beta": 0.627638066522725
+  },
+  "DLTR": {
+    "company name": "Dollar Tree",
+    "stock symbol": "DLTR",
+    "price": 173.05,
+    "mean_return": 0.0009028653736948573,
+    "annualized_mean_return": 0.25535628540995714,
+    "annualized_risk": 0.4018172335100378,
+    "beta": 0.7844387553017439
+  },
+  "D": {
+    "company name": "Dominion Energy",
+    "stock symbol": "D",
+    "price": 87.4,
+    "mean_return": 0.0017963316993338657,
+    "annualized_mean_return": 0.571875506797453,
+    "annualized_risk": 0.2513585030886752,
+    "beta": 0.510558217981663
+  },
+  "DPZ": {
+    "company name": "Domino's",
+    "stock symbol": "DPZ",
+    "price": 387.24,
+    "mean_return": 0.0009060780762390161,
+    "annualized_mean_return": 0.25637211552913697,
+    "annualized_risk": 0.34327943748845385,
+    "beta": 0.726169155933893
+  },
+  "DOV": {
+    "company name": "Dover Corporation",
+    "stock symbol": "DOV",
+    "price": 146.39,
+    "mean_return": 0.00011928000025653932,
+    "annualized_mean_return": 0.030513031956755032,
+    "annualized_risk": 0.2939737085062395,
+    "beta": 0.996810708452481
+  },
+  "DOW": {
+    "company name": "Dow Inc.",
+    "stock symbol": "DOW",
+    "price": 65.49,
+    "mean_return": 0.0007354205453655722,
+    "annualized_mean_return": 0.20352874752680306,
+    "annualized_risk": 0.2925809633648569,
+    "beta": 0.8494848242022112
+  },
+  "DTE": {
+    "company name": "DTE Energy",
+    "stock symbol": "DTE",
+    "price": 137.17,
+    "mean_return": 0.0009100008886069599,
+    "annualized_mean_return": 0.25761358679311375,
+    "annualized_risk": 0.2325885381637738,
+    "beta": 0.5704301443148163
+  },
+  "DUK": {
+    "company name": "Duke Energy",
+    "stock symbol": "DUK",
+    "price": 114.85,
+    "mean_return": 0.0007520237210184348,
+    "annualized_mean_return": 0.20857110327178918,
+    "annualized_risk": 0.22338609305458637,
+    "beta": 0.49598019789829606
+  },
+  "DD": {
+    "company name": "DuPont",
+    "stock symbol": "DD",
+    "price": 68.7,
+    "mean_return": 0.000020069548380393548,
+    "annualized_mean_return": 0.005070286057654805,
+    "annualized_risk": 0.3060879846322784,
+    "beta": 1.0116672223077392
+  },
+  "DXC": {
+    "company name": "DXC Technology",
+    "stock symbol": "DXC",
+    "price": 31.25,
+    "mean_return": 0.0012993360232554467,
+    "annualized_mean_return": 0.38710680044429924,
+    "annualized_risk": 0.4909230484499692,
+    "beta": 1.3121570061487813
+  },
+  "EMN": {
+    "company name": "Eastman Chemical Company",
+    "stock symbol": "EMN",
+    "price": 107.91,
+    "mean_return": 0.0013223324676346442,
+    "annualized_mean_return": 0.39515798103811095,
+    "annualized_risk": 0.3622786153967291,
+    "beta": 1.2226643725260515
+  },
+  "ETN": {
+    "company name": "Eaton Corporation",
+    "stock symbol": "ETN",
+    "price": 139.91,
+    "mean_return": -0.00046495556474253553,
+    "annualized_mean_return": -0.11058919283421742,
+    "annualized_risk": 0.2834866272251809,
+    "beta": 0.8921082868550746
+  },
+  "EBAY": {
+    "company name": "eBay",
+    "stock symbol": "EBAY",
+    "price": 54.15,
+    "mean_return": 0.00109392502610503,
+    "annualized_mean_return": 0.3172133884349875,
+    "annualized_risk": 0.3735408044790678,
+    "beta": 1.2199069427136036
+  },
+  "ECL": {
+    "company name": "Ecolab",
+    "stock symbol": "ECL",
+    "price": 176.6,
+    "mean_return": 0.0005053801585280929,
+    "annualized_mean_return": 0.13578453139438174,
+    "annualized_risk": 0.33279703670499056,
+    "beta": 1.1088642303204468
+  },
+  "EIX": {
+    "company name": "Edison International",
+    "stock symbol": "EIX",
+    "price": 71.84,
+    "mean_return": 0.00014524834972064524,
+    "annualized_mean_return": 0.03727795003588685,
+    "annualized_risk": 0.28518748379163894,
+    "beta": 0.7442684820726461
+  },
+  "EW": {
+    "company name": "Edwards Lifesciences",
+    "stock symbol": "EW",
+    "price": 120.02,
+    "mean_return": 0.0017092142210277746,
+    "annualized_mean_return": 0.537802277353006,
+    "annualized_risk": 0.40334789108891356,
+    "beta": 0.9247855809243416
+  },
+  "EA": {
+    "company name": "Electronic Arts",
+    "stock symbol": "EA",
+    "price": 122.6,
+    "mean_return": -0.00006820795054164762,
+    "annualized_mean_return": -0.017042101893770645,
+    "annualized_risk": 0.2620742503838316,
+    "beta": 0.5652089389783451
+  },
+  "ELV": {
+    "company name": "Elevance Health",
+    "stock symbol": "ELV",
+    "price": 516.72,
+    "mean_return": 0.0004089065442608946,
+    "annualized_mean_return": 0.10851733380116402,
+    "annualized_risk": 0.26868562007425095,
+    "beta": 0.5161592798167555
+  },
+  "LLY": {
+    "company name": "Eli Lilly and Company",
+    "stock symbol": "LLY",
+    "price": 301.86,
+    "mean_return": -0.0006675997262650382,
+    "annualized_mean_return": -0.15489239191654924,
+    "annualized_risk": 0.2647193158271996,
+    "beta": 0.47694798599113036
+  },
+  "EMR": {
+    "company name": "Emerson Electric",
+    "stock symbol": "EMR",
+    "price": 92.86,
+    "mean_return": 0.0004002918662571526,
+    "annualized_mean_return": 0.10611443616592697,
+    "annualized_risk": 0.27990890213185476,
+    "beta": 0.9383894495884488
+  },
+  "ENPH": {
+    "company name": "Enphase",
+    "stock symbol": "ENPH",
+    "price": 190.51,
+    "mean_return": 0.00015541205118000935,
+    "annualized_mean_return": 0.03993768589188296,
+    "annualized_risk": 0.6632685590595574,
+    "beta": 1.4819028022679428
+  },
+  "ETR": {
+    "company name": "Entergy",
+    "stock symbol": "ETR",
+    "price": 124.2,
+    "mean_return": 0.0006590065915850005,
+    "annualized_mean_return": 0.18059076866876156,
+    "annualized_risk": 0.2526885337485483,
+    "beta": 0.6007296065316104
+  },
+  "EOG": {
+    "company name": "EOG Resources",
+    "stock symbol": "EOG",
+    "price": 122.94,
+    "mean_return": 0.0005254829140796929,
+    "annualized_mean_return": 0.14154991531946037,
+    "annualized_risk": 0.44993911173051593,
+    "beta": 0.8822270684554396
+  },
+  "EPAM": {
+    "company name": "EPAM Systems",
+    "stock symbol": "EPAM",
+    "price": 290.06,
+    "mean_return": 0.00047278471261997927,
+    "annualized_mean_return": 0.1264978724553123,
+    "annualized_risk": 0.5211498061568145,
+    "beta": 1.4577059742690228
+  },
+  "EQT": {
+    "company name": "EQT",
+    "stock symbol": "EQT",
+    "price": 42.36,
+    "mean_return": 0.0015828076816929667,
+    "annualized_mean_return": 0.489666401357594,
+    "annualized_risk": 0.566228476573846,
+    "beta": 1.088650321819304
+  },
+  "EFX": {
+    "company name": "Equifax",
+    "stock symbol": "EFX",
+    "price": 216.38,
+    "mean_return": 0.0007023059270808575,
+    "annualized_mean_return": 0.19353438340951312,
+    "annualized_risk": 0.3794022443868414,
+    "beta": 1.1856044490846303
+  },
+  "EQIX": {
+    "company name": "Equinix",
+    "stock symbol": "EQIX",
+    "price": 735.24,
+    "mean_return": 0.00039654151010598017,
+    "annualized_mean_return": 0.10506996851875483,
+    "annualized_risk": 0.34289142925936256,
+    "beta": 1.0166403597872289
+  },
+  "EQR": {
+    "company name": "Equity Residential",
+    "stock symbol": "EQR",
+    "price": 90.43,
+    "mean_return": 0.00168696335571138,
+    "annualized_mean_return": 0.5292181502499125,
+    "annualized_risk": 0.27690609997384563,
+    "beta": 0.7991807098579256
+  },
+  "ESS": {
+    "company name": "Essex Property Trust",
+    "stock symbol": "ESS",
+    "price": 345.51,
+    "mean_return": 0.002099536862490647,
+    "annualized_mean_return": 0.6964344236674958,
+    "annualized_risk": 0.2864936613916458,
+    "beta": 0.7867432313139463
+  },
+  "EL": {
+    "company name": "Estée Lauder Companies (The)",
+    "stock symbol": "EL",
+    "price": 263.87,
+    "mean_return": 0.0003979251841810902,
+    "annualized_mean_return": 0.10545520492933491,
+    "annualized_risk": 0.38590786671666893,
+    "beta": 1.1958642523662757
+  },
+  "ETSY": {
+    "company name": "Etsy",
+    "stock symbol": "ETSY",
+    "price": 115.79,
+    "mean_return": 0.0014133436609413113,
+    "annualized_mean_return": 0.4274807100794791,
+    "annualized_risk": 0.6831498331486519,
+    "beta": 1.856177044857096
+  },
+  "RE": {
+    "company name": "Everest Re",
+    "stock symbol": "RE",
+    "price": 290.57,
+    "mean_return": -0.000769626569280297,
+    "annualized_mean_return": -0.17635903550762977,
+    "annualized_risk": 0.30611553204180625,
+    "beta": 0.602340575363295
+  },
+  "EVRG": {
+    "company name": "Evergy",
+    "stock symbol": "EVRG",
+    "price": 70.81,
+    "mean_return": 0.0006617934989865611,
+    "annualized_mean_return": 0.18141964198802518,
+    "annualized_risk": 0.24449579374444533,
+    "beta": 0.5799912419968891
+  },
+  "ES": {
+    "company name": "Eversource",
+    "stock symbol": "ES",
+    "price": 92.6,
+    "mean_return": 0.0007830377016670539,
+    "annualized_mean_return": 0.21804642518047523,
+    "annualized_risk": 0.24819231432122008,
+    "beta": 0.6056321934415566
+  },
+  "EXC": {
+    "company name": "Exelon",
+    "stock symbol": "EXC",
+    "price": 49.03,
+    "mean_return": 0.0006694002018707057,
+    "annualized_mean_return": 0.18368495515257566,
+    "annualized_risk": 0.26167960282393593,
+    "beta": 0.6437913542015358
+  },
+  "EXPE": {
+    "company name": "Expedia Group",
+    "stock symbol": "EXPE",
+    "price": 191.55,
+    "mean_return": 0.003276360019221861,
+    "annualized_mean_return": 1.2802683205489078,
+    "annualized_risk": 0.5117455246898439,
+    "beta": 1.3745974087780026
+  },
+  "EXPD": {
+    "company name": "Expeditors International",
+    "stock symbol": "EXPD",
+    "price": 96.69,
+    "mean_return": -0.0003684897976848781,
+    "annualized_mean_return": -0.08869399872050054,
+    "annualized_risk": 0.3180551107116164,
+    "beta": 0.8949452966094178
+  },
+  "EXR": {
+    "company name": "Extra Space Storage",
+    "stock symbol": "EXR",
+    "price": 212.55,
+    "mean_return": 0.0015033555486547688,
+    "annualized_mean_return": 0.46018204095072024,
+    "annualized_risk": 0.3571745890804048,
+    "beta": 0.996024328369108
+  },
+  "XOM": {
+    "company name": "ExxonMobil",
+    "stock symbol": "XOM",
+    "price": 87.83,
+    "mean_return": -0.0009096592520894393,
+    "annualized_mean_return": -0.2049406056727925,
+    "annualized_risk": 0.3385004789663677,
+    "beta": 0.7210095511856398
+  },
+  "FFIV": {
+    "company name": "F5, Inc.",
+    "stock symbol": "FFIV",
+    "price": 199.53,
+    "mean_return": 0.001571927161093496,
+    "annualized_mean_return": 0.48559390770741917,
+    "annualized_risk": 0.3559667999376743,
+    "beta": 1.1368698526285328
+  },
+  "FDS": {
+    "company name": "FactSet",
+    "stock symbol": "FDS",
+    "price": 420.57,
+    "mean_return": 0.00019986799525652485,
+    "annualized_mean_return": 0.05165141214303559,
+    "annualized_risk": 0.2906306582820231,
+    "beta": 0.8417807539299805
+  },
+  "FICO": {
+    "company name": "Fair Isaac",
+    "stock symbol": "FICO",
+    "price": 413.72,
+    "mean_return": -0.0017009935088920791,
+    "annualized_mean_return": -0.34885006209370384,
+    "annualized_risk": 0.42043296080183135,
+    "beta": 1.1776357200905951
+  },
+  "FAST": {
+    "company name": "Fastenal",
+    "stock symbol": "FAST",
+    "price": 56.01,
+    "mean_return": 0.0003252478288196393,
+    "annualized_mean_return": 0.08540059051193416,
+    "annualized_risk": 0.2931031483466863,
+    "beta": 0.9699902891370109
+  },
+  "FRT": {
+    "company name": "Federal Realty",
+    "stock symbol": "FRT",
+    "price": 123.26,
+    "mean_return": 0.0010778669766002822,
+    "annualized_mean_return": 0.31189964402112125,
+    "annualized_risk": 0.2906475269018166,
+    "beta": 0.9193698933610002
+  },
+  "FDX": {
+    "company name": "FedEx",
+    "stock symbol": "FDX",
+    "price": 205.74,
+    "mean_return": -0.00005097004125159412,
+    "annualized_mean_return": -0.01276263566496938,
+    "annualized_risk": 0.44768837384664917,
+    "beta": 1.016350180449344
+  },
+  "FITB": {
+    "company name": "Fifth Third Bank",
+    "stock symbol": "FITB",
+    "price": 39.01,
+    "mean_return": 0.001732616222050271,
+    "annualized_mean_return": 0.5468822868636265,
+    "annualized_risk": 0.39048311079572573,
+    "beta": 1.1519853873106596
+  },
+  "FRC": {
+    "company name": "First Republic Bank",
+    "stock symbol": "FRC",
+    "price": 160.75,
+    "mean_return": 0.014994820848238307,
+    "annualized_mean_return": 41.548495107860894,
+    "annualized_risk": 2.0204506223603693,
+    "beta": 1.5932243691802968
+  },
+  "FSLR": {
+    "company name": "First Solar",
+    "stock symbol": "FSLR",
+    "price": 78.12,
+    "mean_return": -0.00357252879660956,
+    "annualized_mean_return": -0.5941977188811405,
+    "annualized_risk": 0.5084272083622446,
+    "beta": 0.9447450791572225
+  },
+  "FE": {
+    "company name": "FirstEnergy",
+    "stock symbol": "FE",
+    "price": 47.4,
+    "mean_return": 0.0007434868579410973,
+    "annualized_mean_return": 0.20597585013758013,
+    "annualized_risk": 0.24367103518536948,
+    "beta": 0.6006629645770164
+  },
+  "FIS": {
+    "company name": "FIS",
+    "stock symbol": "FIS",
+    "price": 102.45,
+    "mean_return": 0.0029048209304537906,
+    "annualized_mean_return": 1.0770606450294147,
+    "annualized_risk": 0.5593469077131453,
+    "beta": 1.1093943845090188
+  },
+  "FISV": {
+    "company name": "Fiserv",
+    "stock symbol": "FISV",
+    "price": 99.67,
+    "mean_return": -0.00044772100322460634,
+    "annualized_mean_return": -0.10671621261879627,
+    "annualized_risk": 0.311824730398007,
+    "beta": 0.9885710950811958
+  },
+  "FLT": {
+    "company name": "Fleetcor",
+    "stock symbol": "FLT",
+    "price": 258.67,
+    "mean_return": 0.0008521310756722628,
+    "annualized_mean_return": 0.23942255656289113,
+    "annualized_risk": 0.3544340564474983,
+    "beta": 1.192287470363447
+  },
+  "FMC": {
+    "company name": "FMC Corporation",
+    "stock symbol": "FMC",
+    "price": 136.79,
+    "mean_return": 0.0005231374244687232,
+    "annualized_mean_return": 0.14087573970283662,
+    "annualized_risk": 0.28106975191888,
+    "beta": 0.7072177507324675
+  },
+  "F": {
+    "company name": "Ford Motor Company",
+    "stock symbol": "F",
+    "price": 15.48,
+    "mean_return": 0.0011843242616553,
+    "annualized_mean_return": 0.3475297786390137,
+    "annualized_risk": 0.45737221722605936,
+    "beta": 1.4402519386697459
+  },
+  "FTNT": {
+    "company name": "Fortinet",
+    "stock symbol": "FTNT",
+    "price": 66.352,
+    "mean_return": 0.00039104051576581926,
+    "annualized_mean_return": 0.10353972812910195,
+    "annualized_risk": 0.4989897776836493,
+    "beta": 1.3902612582276999
+  },
+  "FTV": {
+    "company name": "Fortive",
+    "stock symbol": "FTV",
+    "price": 58.18,
+    "mean_return": -0.00042056408755839067,
+    "annualized_mean_return": -0.10057934757170583,
+    "annualized_risk": 0.2753776476912616,
+    "beta": 1.0068472164294897
+  },
+  "FOXA": {
+    "company name": "Fox Corporation (Class A)",
+    "stock symbol": "FOXA",
+    "price": 39.12,
+    "mean_return": 0.0007483305992839958,
+    "annualized_mean_return": 0.2074476920182946,
+    "annualized_risk": 0.3126539148259992,
+    "beta": 0.7457993720560446
+  },
+  "FOX": {
+    "company name": "Fox Corporation (Class B)",
+    "stock symbol": "FOX",
+    "price": 35.85,
+    "mean_return": 0.0007310655188503576,
+    "annualized_mean_return": 0.2022096060662577,
+    "annualized_risk": 0.3023696409641941,
+    "beta": 0.7631582703864703
+  },
+  "BEN": {
+    "company name": "Franklin Templeton",
+    "stock symbol": "BEN",
+    "price": 25.57,
+    "mean_return": 0.00004981267013115212,
+    "annualized_mean_return": 0.012631593294583743,
+    "annualized_risk": 0.3640456820156842,
+    "beta": 1.2640970655479393
+  },
+  "FCX": {
+    "company name": "Freeport-McMoRan",
+    "stock symbol": "FCX",
+    "price": 49.19,
+    "mean_return": 0.001080876351626942,
+    "annualized_mean_return": 0.31289384334731674,
+    "annualized_risk": 0.5243271673260324,
+    "beta": 1.3657341623726897
+  },
+  "GRMN": {
+    "company name": "Garmin",
+    "stock symbol": "GRMN",
+    "price": 111.31,
+    "mean_return": 0.0006244505669151272,
+    "annualized_mean_return": 0.17036121397372694,
+    "annualized_risk": 0.29988934819536794,
+    "beta": 0.9645167482191773
+  },
+  "IT": {
+    "company name": "Gartner",
+    "stock symbol": "IT",
+    "price": 298.1,
+    "mean_return": -0.0000446896695701329,
+    "annualized_mean_return": -0.011198868914449767,
+    "annualized_risk": 0.3252818331481379,
+    "beta": 1.021262588577978
+  },
+  "GEN": {
+    "company name": "Gen Digital",
+    "stock symbol": "GEN",
+    "price": 26.64,
+    "mean_return": 0.0017754437423750551,
+    "annualized_mean_return": 0.5636379339693363,
+    "annualized_risk": 0.31216929357240647,
+    "beta": 0.6913296846881919
+  },
+  "GNRC": {
+    "company name": "Generac",
+    "stock symbol": "GNRC",
+    "price": 251.19,
+    "mean_return": 0.004488245306976369,
+    "annualized_mean_return": 2.0910387484591304,
+    "annualized_risk": 0.7183082301151787,
+    "beta": 1.9678061004541707
+  },
+  "GD": {
+    "company name": "General Dynamics",
+    "stock symbol": "GD",
+    "price": 243.74,
+    "mean_return": 0.0003310618836703276,
+    "annualized_mean_return": 0.0869914994157257,
+    "annualized_risk": 0.22543289061565533,
+    "beta": 0.6528532207807012
+  },
+  "GE": {
+    "company name": "General Electric",
+    "stock symbol": "GE",
+    "price": 71.484,
+    "mean_return": -0.0010448967038233226,
+    "annualized_mean_return": -0.23160521367602838,
+    "annualized_risk": 0.3393128411132878,
+    "beta": 0.9999865725777463
+  },
+  "GIS": {
+    "company name": "General Mills",
+    "stock symbol": "GIS",
+    "price": 70.92,
+    "mean_return": -0.0007336394649507117,
+    "annualized_mean_return": -0.16884999994907435,
+    "annualized_risk": 0.2238843079757507,
+    "beta": 0.2666625756243821
+  },
+  "GM": {
+    "company name": "General Motors",
+    "stock symbol": "GM",
+    "price": 40.13,
+    "mean_return": 0.000864381710505938,
+    "annualized_mean_return": 0.24325147328410623,
+    "annualized_risk": 0.4267923671982293,
+    "beta": 1.376265012480619
+  },
+  "GPC": {
+    "company name": "Genuine Parts Company",
+    "stock symbol": "GPC",
+    "price": 130.94,
+    "mean_return": -0.0008403791868167279,
+    "annualized_mean_return": -0.1909257537932042,
+    "annualized_risk": 0.23828191945868007,
+    "beta": 0.6829807084788447
+  },
+  "GILD": {
+    "company name": "Gilead Sciences",
+    "stock symbol": "GILD",
+    "price": 61.82,
+    "mean_return": -0.0010791233692477357,
+    "annualized_mean_return": -0.23821119660246337,
+    "annualized_risk": 0.25047883949975985,
+    "beta": 0.5265053559739167
+  },
+  "GL": {
+    "company name": "Globe Life",
+    "stock symbol": "GL",
+    "price": 102.93,
+    "mean_return": -0.0001295669283868703,
+    "annualized_mean_return": -0.0321256282447161,
+    "annualized_risk": 0.24965562197933555,
+    "beta": 0.6747199076470487
+  },
+  "GPN": {
+    "company name": "Global Payments",
+    "stock symbol": "GPN",
+    "price": 139.95,
+    "mean_return": 0.0013156790333460938,
+    "annualized_mean_return": 0.39282380402298256,
+    "annualized_risk": 0.4101593772591325,
+    "beta": 1.2562636601062158
+  },
+  "GS": {
+    "company name": "Goldman Sachs",
+    "stock symbol": "GS",
+    "price": 321.64,
+    "mean_return": 0.000019150649651863576,
+    "annualized_mean_return": 0.0048375809973653094,
+    "annualized_risk": 0.2916989896143075,
+    "beta": 0.9446448657013082
+  },
+  "HAL": {
+    "company name": "Halliburton",
+    "stock symbol": "HAL",
+    "price": 40.76,
+    "mean_return": 0.001241849769515701,
+    "annualized_mean_return": 0.36718240941190405,
+    "annualized_risk": 0.5095960711498901,
+    "beta": 1.08320056506656
+  },
+  "HIG": {
+    "company name": "Hartford (The)",
+    "stock symbol": "HIG",
+    "price": 74.95,
+    "mean_return": 0.00041109392213136987,
+    "annualized_mean_return": 0.10912828774301553,
+    "annualized_risk": 0.26689586660210185,
+    "beta": 0.7584943599125786
+  },
+  "HAS": {
+    "company name": "Hasbro",
+    "stock symbol": "HAS",
+    "price": 85.22,
+    "mean_return": 0.0021510268261110696,
+    "annualized_mean_return": 0.7185425954042928,
+    "annualized_risk": 0.35572072446451936,
+    "beta": 0.9274737534629943
+  },
+  "HCA": {
+    "company name": "HCA Healthcare",
+    "stock symbol": "HCA",
+    "price": 260.94,
+    "mean_return": 0.00019869014475130007,
+    "annualized_mean_return": 0.05133937122517551,
+    "annualized_risk": 0.437137660333401,
+    "beta": 1.0176366644166552
+  },
+  "PEAK": {
+    "company name": "Healthpeak",
+    "stock symbol": "PEAK",
+    "price": 35.11,
+    "mean_return": 0.0021691793552134353,
+    "annualized_mean_return": 0.7264049465591877,
+    "annualized_risk": 0.2915228837560943,
+    "beta": 0.17717190011603587
+  },
+  "HSIC": {
+    "company name": "Henry Schein",
+    "stock symbol": "HSIC",
+    "price": 91.36,
+    "mean_return": 0.0005267870574134897,
+    "annualized_mean_return": 0.14192494329359984,
+    "annualized_risk": 0.25840393212492924,
+    "beta": 0.6936988495241398
+  },
+  "HSY": {
+    "company name": "Hershey's",
+    "stock symbol": "HSY",
+    "price": 225.98,
+    "mean_return": -0.0004646011758755761,
+    "annualized_mean_return": -0.11050972263301151,
+    "annualized_risk": 0.2089395934499012,
+    "beta": 0.3774309044040134
+  },
+  "HES": {
+    "company name": "Hess Corporation",
+    "stock symbol": "HES",
+    "price": 114.72,
+    "mean_return": -0.0005335081478082281,
+    "annualized_mean_return": -0.12582957626843538,
+    "annualized_risk": 0.4607358284666504,
+    "beta": 0.883830962523674
+  },
+  "HPE": {
+    "company name": "Hewlett Packard Enterprise",
+    "stock symbol": "HPE",
+    "price": 15.38,
+    "mean_return": 0.00010704586128006188,
+    "annualized_mean_return": 0.02734120798127626,
+    "annualized_risk": 0.3252565439458316,
+    "beta": 1.0196707356582666
+  },
+  "HLT": {
+    "company name": "Hilton Worldwide",
+    "stock symbol": "HLT",
+    "price": 155.58,
+    "mean_return": 0.0004483900432726117,
+    "annualized_mean_return": 0.11959718651381146,
+    "annualized_risk": 0.3370692199922752,
+    "beta": 1.0837755666254145
+  },
+  "HOLX": {
+    "company name": "Hologic",
+    "stock symbol": "HOLX",
+    "price": 76.33,
+    "mean_return": -0.00017858690853045324,
+    "annualized_mean_return": -0.04401008961971786,
+    "annualized_risk": 0.2562139435870678,
+    "beta": 0.7246888664218559
+  },
+  "HD": {
+    "company name": "Home Depot (The)",
+    "stock symbol": "HD",
+    "price": 304.52,
+    "mean_return": 0.00024711247044286805,
+    "annualized_mean_return": 0.0642439592879318,
+    "annualized_risk": 0.2971452147466686,
+    "beta": 0.9594260305683386
+  },
+  "HON": {
+    "company name": "Honeywell",
+    "stock symbol": "HON",
+    "price": 195.19,
+    "mean_return": 0.00007345825563103201,
+    "annualized_mean_return": 0.018683187440479365,
+    "annualized_risk": 0.23443725443563387,
+    "beta": 0.7592723275923932
+  },
+  "HRL": {
+    "company name": "Hormel Foods",
+    "stock symbol": "HRL",
+    "price": 53.43,
+    "mean_return": 0.001265769282864795,
+    "annualized_mean_return": 0.37543790367242424,
+    "annualized_risk": 0.21739554898517624,
+    "beta": 0.3293246926108724
+  },
+  "HST": {
+    "company name": "Host Hotels & Resorts",
+    "stock symbol": "HST",
+    "price": 19.58,
+    "mean_return": 0.0009367225973298986,
+    "annualized_mean_return": 0.26610290617652077,
+    "annualized_risk": 0.3836414654027496,
+    "beta": 1.15769706908013
+  },
+  "HWM": {
+    "company name": "Howmet Aerospace",
+    "stock symbol": "HWM",
+    "price": 35.48,
+    "mean_return": -0.0006039236038292776,
+    "annualized_mean_return": -0.14121331892867928,
+    "annualized_risk": 0.3117700593981651,
+    "beta": 1.0538612593578602
+  },
+  "HPQ": {
+    "company name": "HP Inc.",
+    "stock symbol": "HPQ",
+    "price": 37.47,
+    "mean_return": 0.0009926994192760471,
+    "annualized_mean_return": 0.284071859187198,
+    "annualized_risk": 0.36985767340154824,
+    "beta": 1.242945618057235
+  },
+  "HUM": {
+    "company name": "Humana",
+    "stock symbol": "HUM",
+    "price": 460.56,
+    "mean_return": -0.0002867909720476784,
+    "annualized_mean_return": -0.06973118881916407,
+    "annualized_risk": 0.2645461719660188,
+    "beta": 0.45038911831864265
+  },
+  "HBAN": {
+    "company name": "Huntington Bancshares",
+    "stock symbol": "HBAN",
+    "price": 13.36,
+    "mean_return": 0.0008365900866798365,
+    "annualized_mean_return": 0.23458214134814637,
+    "annualized_risk": 0.37960636836260847,
+    "beta": 0.9934086214418373
+  },
+  "HII": {
+    "company name": "Huntington Ingalls Industries",
+    "stock symbol": "HII",
+    "price": 222.67,
+    "mean_return": 0.00031273572987402723,
+    "annualized_mean_return": 0.08198474695270375,
+    "annualized_risk": 0.24532514002027195,
+    "beta": 0.5331593225215122
+  },
+  "IBM": {
+    "company name": "IBM",
+    "stock symbol": "IBM",
+    "price": 126.56,
+    "mean_return": 0.00007289815853129637,
+    "annualized_mean_return": 0.018539426608732423,
+    "annualized_risk": 0.2370990509070787,
+    "beta": 0.5796906203408522
+  },
+  "IEX": {
+    "company name": "IDEX Corporation",
+    "stock symbol": "IEX",
+    "price": 190.56,
+    "mean_return": -0.00045040879639053334,
+    "annualized_mean_return": -0.10732132184035847,
+    "annualized_risk": 0.2561695651379217,
+    "beta": 0.8386460321159895
+  },
+  "IDXX": {
+    "company name": "Idexx Laboratories",
+    "stock symbol": "IDXX",
+    "price": 496.78,
+    "mean_return": 0.0004467427141840166,
+    "annualized_mean_return": 0.11913271586585727,
+    "annualized_risk": 0.40690717814700234,
+    "beta": 1.2545493580431675
+  },
+  "ITW": {
+    "company name": "Illinois Tool Works",
+    "stock symbol": "ITW",
+    "price": 196.27,
+    "mean_return": -0.0005822239491940266,
+    "annualized_mean_return": -0.13650153915543362,
+    "annualized_risk": 0.2636813973182026,
+    "beta": 0.9306657522093947
+  },
+  "ILMN": {
+    "company name": "Illumina",
+    "stock symbol": "ILMN",
+    "price": 336.49,
+    "mean_return": 0.0021722117328921344,
+    "annualized_mean_return": 0.7277218392596982,
+    "annualized_risk": 0.5655426395891112,
+    "beta": 1.4655312905397917
+  },
+  "INCY": {
+    "company name": "Incyte",
+    "stock symbol": "INCY",
+    "price": 81.74,
+    "mean_return": 0.0005400141702602226,
+    "annualized_mean_return": 0.14573555927895399,
+    "annualized_risk": 0.26105056321332265,
+    "beta": 0.5620063639140132
+  },
+  "IR": {
+    "company name": "Ingersoll Rand",
+    "stock symbol": "IR",
+    "price": 46.44,
+    "mean_return": -0.0005446317706469699,
+    "annualized_mean_return": -0.12827789637913856,
+    "annualized_risk": 0.3344297768941315,
+    "beta": 1.1427322205538604
+  },
+  "PODD": {
+    "company name": "Insulet",
+    "stock symbol": "PODD",
+    "price": 263.5,
+    "mean_return": -0.00036054652960770464,
+    "annualized_mean_return": -0.08686734080396064,
+    "annualized_risk": 0.46098841423985365,
+    "beta": 1.1748929813923323
+  },
+  "INTC": {
+    "company name": "Intel",
+    "stock symbol": "INTC",
+    "price": 45.67,
+    "mean_return": 0.0017391710120563736,
+    "annualized_mean_return": 0.5494351143522673,
+    "annualized_risk": 0.39347900368539984,
+    "beta": 1.2420587218084151
+  },
+  "ICE": {
+    "company name": "Intercontinental Exchange",
+    "stock symbol": "ICE",
+    "price": 124.53,
+    "mean_return": 0.0007338994581943109,
+    "annualized_mean_return": 0.20306784509536913,
+    "annualized_risk": 0.27606006265747074,
+    "beta": 0.8487326279720518
+  },
+  "IFF": {
+    "company name": "International Flavors & Fragrances",
+    "stock symbol": "IFF",
+    "price": 125.43,
+    "mean_return": 0.0013420111960757999,
+    "annualized_mean_return": 0.40208455768629303,
+    "annualized_risk": 0.3873616996731024,
+    "beta": 0.973468548514702
+  },
+  "IP": {
+    "company name": "International Paper",
+    "stock symbol": "IP",
+    "price": 47.43,
+    "mean_return": 0.0012368121180290975,
+    "annualized_mean_return": 0.36545003434381895,
+    "annualized_risk": 0.315713141563398,
+    "beta": 0.918239063598799
+  },
+  "IPG": {
+    "company name": "Interpublic Group of Companies (The)",
+    "stock symbol": "IPG",
+    "price": 34.49,
+    "mean_return": -0.0002486698620208584,
+    "annualized_mean_return": -0.060749063959270266,
+    "annualized_risk": 0.3007171414571203,
+    "beta": 0.9967511932477492
+  },
+  "INTU": {
+    "company name": "Intuit",
+    "stock symbol": "INTU",
+    "price": 465.11,
+    "mean_return": 0.0006045129316581798,
+    "annualized_mean_return": 0.16449932699164704,
+    "annualized_risk": 0.45461593155374747,
+    "beta": 1.6400981979755676
+  },
+  "ISRG": {
+    "company name": "Intuitive Surgical",
+    "stock symbol": "ISRG",
+    "price": 279.7,
+    "mean_return": 0.0004930548376484293,
+    "annualized_mean_return": 0.13226403399830966,
+    "annualized_risk": 0.41900313192125993,
+    "beta": 1.3397991213134623
+  },
+  "IVZ": {
+    "company name": "Invesco",
+    "stock symbol": "IVZ",
+    "price": 21,
+    "mean_return": 0.0010962683531822264,
+    "annualized_mean_return": 0.31799060553857394,
+    "annualized_risk": 0.41995870595672197,
+    "beta": 1.487456808011529
+  },
+  "INVH": {
+    "company name": "Invitation Homes",
+    "stock symbol": "INVH",
+    "price": 41.95,
+    "mean_return": 0.0011265069916426126,
+    "annualized_mean_return": 0.3280610024873003,
+    "annualized_risk": 0.3080692754025056,
+    "beta": 0.8498686127153936
+  },
+  "IQV": {
+    "company name": "IQVIA",
+    "stock symbol": "IQV",
+    "price": 238.48,
+    "mean_return": 0.0008942777497939194,
+    "annualized_mean_return": 0.25264496357870625,
+    "annualized_risk": 0.35478661984606613,
+    "beta": 1.203806656963917
+  },
+  "IRM": {
+    "company name": "Iron Mountain",
+    "stock symbol": "IRM",
+    "price": 55.42,
+    "mean_return": 0.0004283100080099376,
+    "annualized_mean_return": 0.11394861512689225,
+    "annualized_risk": 0.34296616452200934,
+    "beta": 0.9505005695566286
+  },
+  "JBHT": {
+    "company name": "J.B. Hunt",
+    "stock symbol": "JBHT",
+    "price": 172.01,
+    "mean_return": 0.00013980764686774517,
+    "annualized_mean_return": 0.035856959601188176,
+    "annualized_risk": 0.32402466357968895,
+    "beta": 0.9450496105650672
+  },
+  "JKHY": {
+    "company name": "Jack Henry & Associates",
+    "stock symbol": "JKHY",
+    "price": 200.49,
+    "mean_return": 0.0011967496227629176,
+    "annualized_mean_return": 0.3517507314128876,
+    "annualized_risk": 0.29202110229732087,
+    "beta": 0.6847324231594243
+  },
+  "J": {
+    "company name": "Jacobs Solutions",
+    "stock symbol": "J",
+    "price": 144.66,
+    "mean_return": 0.0010455759252048621,
+    "annualized_mean_return": 0.3012788116724927,
+    "annualized_risk": 0.2788903609256976,
+    "beta": 0.8922326233764604
+  },
+  "JNJ": {
+    "company name": "Johnson & Johnson",
+    "stock symbol": "JNJ",
+    "price": 179.9,
+    "mean_return": 0.0004987486628800612,
+    "annualized_mean_return": 0.13388901589445656,
+    "annualized_risk": 0.17201188980756044,
+    "beta": 0.35480334251852175
+  },
+  "JCI": {
+    "company name": "Johnson Controls",
+    "stock symbol": "JCI",
+    "price": 61.53,
+    "mean_return": 0.0004296162819823347,
+    "annualized_mean_return": 0.11431520897098313,
+    "annualized_risk": 0.32559862165119413,
+    "beta": 0.9410142911345979
+  },
+  "JPM": {
+    "company name": "JPMorgan Chase",
+    "stock symbol": "JPM",
+    "price": 126.12,
+    "mean_return": -0.0002881046314249976,
+    "annualized_mean_return": -0.07003918456878178,
+    "annualized_risk": 0.28889975126078155,
+    "beta": 0.8748080132730855
+  },
+  "JNPR": {
+    "company name": "Juniper Networks",
+    "stock symbol": "JNPR",
+    "price": 35.13,
+    "mean_return": 0.00039048005317701825,
+    "annualized_mean_return": 0.10338393983806116,
+    "annualized_risk": 0.2837635221090358,
+    "beta": 0.9139076070647646
+  },
+  "K": {
+    "company name": "Kellogg's",
+    "stock symbol": "K",
+    "price": 67.88,
+    "mean_return": 0.00009208251088174514,
+    "annualized_mean_return": 0.023475025175781594,
+    "annualized_risk": 0.20886986422187645,
+    "beta": 0.26974007240009334
+  },
+  "KDP": {
+    "company name": "Keurig Dr Pepper",
+    "stock symbol": "KDP",
+    "price": 37.24,
+    "mean_return": 0.00027794361399476254,
+    "annualized_mean_return": 0.07254256501881318,
+    "annualized_risk": 0.19574233816299194,
+    "beta": 0.4874021761121687
+  },
+  "KEY": {
+    "company name": "KeyCorp",
+    "stock symbol": "KEY",
+    "price": 20.48,
+    "mean_return": 0.002617706653665069,
+    "annualized_mean_return": 0.9324723232075425,
+    "annualized_risk": 0.5403821276280492,
+    "beta": 1.1980777465778178
+  },
+  "KEYS": {
+    "company name": "Keysight",
+    "stock symbol": "KEYS",
+    "price": 143.93,
+    "mean_return": 0.00004858414753625977,
+    "annualized_mean_return": 0.012318158955489267,
+    "annualized_risk": 0.335926755246467,
+    "beta": 1.0752960513941827
+  },
+  "KMB": {
+    "company name": "Kimberly-Clark",
+    "stock symbol": "KMB",
+    "price": 126.42,
+    "mean_return": -0.00028096145587332827,
+    "annualized_mean_return": -0.06836319560297532,
+    "annualized_risk": 0.21007739752532695,
+    "beta": 0.4075643478720229
+  },
+  "KIM": {
+    "company name": "Kimco Realty",
+    "stock symbol": "KIM",
+    "price": 25.13,
+    "mean_return": 0.0012880328539298944,
+    "annualized_mean_return": 0.38316647927435765,
+    "annualized_risk": 0.3175653464534419,
+    "beta": 1.0371575447187702
+  },
+  "KMI": {
+    "company name": "Kinder Morgan",
+    "stock symbol": "KMI",
+    "price": 19.37,
+    "mean_return": 0.0004964922965046286,
+    "annualized_mean_return": 0.1332447854498835,
+    "annualized_risk": 0.2655123510725555,
+    "beta": 0.7370212498759889
+  },
+  "KLAC": {
+    "company name": "KLA Corporation",
+    "stock symbol": "KLAC",
+    "price": 321.48,
+    "mean_return": -0.00019101579801043448,
+    "annualized_mean_return": -0.047000194147652885,
+    "annualized_risk": 0.4383967331135861,
+    "beta": 1.4815001411988884
+  },
+  "KHC": {
+    "company name": "Kraft Heinz",
+    "stock symbol": "KHC",
+    "price": 42.29,
+    "mean_return": 0.0003973853224938276,
+    "annualized_mean_return": 0.10530488311728181,
+    "annualized_risk": 0.25171260601146633,
+    "beta": 0.3499684336115265
+  },
+  "KR": {
+    "company name": "Kroger",
+    "stock symbol": "KR",
+    "price": 58.32,
+    "mean_return": 0.0009414376185727301,
+    "annualized_mean_return": 0.2676067521206218,
+    "annualized_risk": 0.28178484708170737,
+    "beta": 0.44677498169647334
+  },
+  "LHX": {
+    "company name": "L3Harris",
+    "stock symbol": "LHX",
+    "price": 257.41,
+    "mean_return": 0.0010542424246025382,
+    "annualized_mean_return": 0.3041208681821288,
+    "annualized_risk": 0.26549626229996526,
+    "beta": 0.5126253395488777
+  },
+  "LH": {
+    "company name": "LabCorp",
+    "stock symbol": "LH",
+    "price": 269.04,
+    "mean_return": 0.0007801605162604306,
+    "annualized_mean_return": 0.21716428905205176,
+    "annualized_risk": 0.286960743487405,
+    "beta": 0.7743546315136753
+  },
+  "LRCX": {
+    "company name": "Lam Research",
+    "stock symbol": "LRCX",
+    "price": 456.16,
+    "mean_return": 0.00017275025816064162,
+    "annualized_mean_return": 0.044490602990011396,
+    "annualized_risk": 0.5033888825758537,
+    "beta": 1.6748711296602468
+  },
+  "LW": {
+    "company name": "Lamb Weston",
+    "stock symbol": "LW",
+    "price": 68.71,
+    "mean_return": -0.0017392038095998188,
+    "annualized_mean_return": -0.35510059208481404,
+    "annualized_risk": 0.23886335551363802,
+    "beta": 0.5466622990480899
+  },
+  "LVS": {
+    "company name": "Las Vegas Sands",
+    "stock symbol": "LVS",
+    "price": 36.96,
+    "mean_return": -0.0014385193187945165,
+    "annualized_mean_return": -0.30425207099873997,
+    "annualized_risk": 0.4708072905457843,
+    "beta": 1.0004167221505527
+  },
+  "LDOS": {
+    "company name": "Leidos",
+    "stock symbol": "LDOS",
+    "price": 109.06,
+    "mean_return": 0.0007286722674190987,
+    "annualized_mean_return": 0.20148530130476217,
+    "annualized_risk": 0.2242790897883982,
+    "beta": 0.5306809864000906
+  },
+  "LEN": {
+    "company name": "Lennar",
+    "stock symbol": "LEN",
+    "price": 76.77,
+    "mean_return": -0.001109339748319852,
+    "annualized_mean_return": -0.24399613570742096,
+    "annualized_risk": 0.382751700033489,
+    "beta": 1.1901204429083736
+  },
+  "LNC": {
+    "company name": "Lincoln Financial",
+    "stock symbol": "LNC",
+    "price": 64.92,
+    "mean_return": 0.0052678638961263765,
+    "annualized_mean_return": 2.758490386883679,
+    "annualized_risk": 0.7025659205370193,
+    "beta": 1.5945812590407584
+  },
+  "LIN": {
+    "company name": "Linde plc",
+    "stock symbol": "LIN",
+    "price": 318.52,
+    "mean_return": -0.0003927353652699394,
+    "annualized_mean_return": -0.09424710368349853,
+    "annualized_risk": 0.27200119030155956,
+    "beta": 0.8608658777832542
+  },
+  "LYV": {
+    "company name": "Live Nation Entertainment",
+    "stock symbol": "LYV",
+    "price": 111.31,
+    "mean_return": 0.002302385903970665,
+    "annualized_mean_return": 0.7852069513774624,
+    "annualized_risk": 0.4102051363752527,
+    "beta": 1.096164977054563
+  },
+  "LKQ": {
+    "company name": "LKQ Corporation",
+    "stock symbol": "LKQ",
+    "price": 47,
+    "mean_return": -0.0005746631379042704,
+    "annualized_mean_return": -0.1348537720227424,
+    "annualized_risk": 0.28354887283510477,
+    "beta": 0.9487203071773945
+  },
+  "LMT": {
+    "company name": "Lockheed Martin",
+    "stock symbol": "LMT",
+    "price": 467.66,
+    "mean_return": -0.00017155508265217262,
+    "annualized_mean_return": -0.042314257291009905,
+    "annualized_risk": 0.23011647745667865,
+    "beta": 0.39395179392184204
+  },
+  "L": {
+    "company name": "Loews Corporation",
+    "stock symbol": "L",
+    "price": 65.15,
+    "mean_return": 0.0006099772477481602,
+    "annualized_mean_return": 0.16610298153650427,
+    "annualized_risk": 0.2413035230862645,
+    "beta": 0.741978741762755
+  },
+  "LOW": {
+    "company name": "Lowe's",
+    "stock symbol": "LOW",
+    "price": 201.28,
+    "mean_return": 0.00007808869029603194,
+    "annualized_mean_return": 0.019872461431764687,
+    "annualized_risk": 0.32680473300130475,
+    "beta": 1.0067322708306483
+  },
+  "LYB": {
+    "company name": "LyondellBasell",
+    "stock symbol": "LYB",
+    "price": 107.58,
+    "mean_return": 0.0006268927215124029,
+    "annualized_mean_return": 0.17108125216843328,
+    "annualized_risk": 0.33558755302683474,
+    "beta": 0.9169883467239709
+  },
+  "MTB": {
+    "company name": "M&T Bank",
+    "stock symbol": "MTB",
+    "price": 159.56,
+    "mean_return": 0.0011962077162553017,
+    "annualized_mean_return": 0.3515663689127244,
+    "annualized_risk": 0.3594343611968122,
+    "beta": 0.8244296450450123
+  },
+  "MRO": {
+    "company name": "Marathon Oil",
+    "stock symbol": "MRO",
+    "price": 26.61,
+    "mean_return": 0.0008252694139811396,
+    "annualized_mean_return": 0.23106804852630436,
+    "annualized_risk": 0.5244159095230967,
+    "beta": 1.0798985524179259
+  },
+  "MPC": {
+    "company name": "Marathon Petroleum",
+    "stock symbol": "MPC",
+    "price": 87.2,
+    "mean_return": -0.0012630481360021587,
+    "annualized_mean_return": -0.27275314512768767,
+    "annualized_risk": 0.3846421995986502,
+    "beta": 0.7674165308421077
+  },
+  "MKTX": {
+    "company name": "MarketAxess",
+    "stock symbol": "MKTX",
+    "price": 265.45,
+    "mean_return": -0.0006273891281255324,
+    "annualized_mean_return": -0.14627971741129542,
+    "annualized_risk": 0.4028045398018406,
+    "beta": 0.9090815319895399
+  },
+  "MAR": {
+    "company name": "Marriott International",
+    "stock symbol": "MAR",
+    "price": 180.51,
+    "mean_return": 0.0003821822213718828,
+    "annualized_mean_return": 0.1010800046091429,
+    "annualized_risk": 0.34088827714231823,
+    "beta": 1.1065999870198846
+  },
+  "MMC": {
+    "company name": "Marsh McLennan",
+    "stock symbol": "MMC",
+    "price": 169.76,
+    "mean_return": 0.000005166516119510016,
+    "annualized_mean_return": 0.0013028066150155837,
+    "annualized_risk": 0.2499411490815787,
+    "beta": 0.8658396318491635
+  },
+  "MLM": {
+    "company name": "Martin Marietta Materials",
+    "stock symbol": "MLM",
+    "price": 364.82,
+    "mean_return": 0.0003377412294086379,
+    "annualized_mean_return": 0.08882204622359469,
+    "annualized_risk": 0.32752493729381904,
+    "beta": 1.0961374305298248
+  },
+  "MAS": {
+    "company name": "Masco",
+    "stock symbol": "MAS",
+    "price": 49.39,
+    "mean_return": 0.00019737539049262772,
+    "annualized_mean_return": 0.05099117013153154,
+    "annualized_risk": 0.3558334011558482,
+    "beta": 1.113735254417268
+  },
+  "MA": {
+    "company name": "Mastercard",
+    "stock symbol": "MA",
+    "price": 357.82,
+    "mean_return": 0.0000016684407357046298,
+    "annualized_mean_return": 0.0004205351147830161,
+    "annualized_risk": 0.2839913111466563,
+    "beta": 1.034000078325786
+  },
+  "MTCH": {
+    "company name": "Match Group",
+    "stock symbol": "MTCH",
+    "price": 92.1,
+    "mean_return": 0.0045329892998832244,
+    "annualized_mean_return": 2.12593067283465,
+    "annualized_risk": 0.6037997946606813,
+    "beta": 1.5655008432156765
+  },
+  "MKC": {
+    "company name": "McCormick & Company",
+    "stock symbol": "MKC",
+    "price": 101.57,
+    "mean_return": 0.0008460745274127603,
+    "annualized_mean_return": 0.2375339329439059,
+    "annualized_risk": 0.27303368703715053,
+    "beta": 0.5659617827695406
+  },
+  "MCD": {
+    "company name": "McDonald's",
+    "stock symbol": "MCD",
+    "price": 250.51,
+    "mean_return": -0.0005241372550425219,
+    "annualized_mean_return": -0.12376171927468005,
+    "annualized_risk": 0.18669974945751278,
+    "beta": 0.4808558268495354
+  },
+  "MCK": {
+    "company name": "McKesson",
+    "stock symbol": "MCK",
+    "price": 323.25,
+    "mean_return": -0.00032048220653129714,
+    "annualized_mean_return": -0.07759829364942372,
+    "annualized_risk": 0.23549076367155117,
+    "beta": 0.3952377797359613
+  },
+  "MDT": {
+    "company name": "Medtronic",
+    "stock symbol": "MDT",
+    "price": 109.02,
+    "mean_return": 0.0012830864992145103,
+    "annualized_mean_return": 0.381445672899418,
+    "annualized_risk": 0.26275635131525005,
+    "beta": 0.6805057080288286
+  },
+  "MRK": {
+    "company name": "Merck & Co.",
+    "stock symbol": "MRK",
+    "price": 86.91,
+    "mean_return": -0.0010182004745355113,
+    "annualized_mean_return": -0.2264130750725989,
+    "annualized_risk": 0.20926902873980055,
+    "beta": 0.2954886012853937
+  },
+  "META": {
+    "company name": "Meta Platforms",
+    "stock symbol": "META",
+    "price": 210.18,
+    "mean_return": 0.0006361945590707042,
+    "annualized_mean_return": 0.17382782370922611,
+    "annualized_risk": 0.637353141503097,
+    "beta": 1.6388385155888436
+  },
+  "MET": {
+    "company name": "MetLife",
+    "stock symbol": "MET",
+    "price": 70.64,
+    "mean_return": 0.0007050350922028757,
+    "annualized_mean_return": 0.19435494095174866,
+    "annualized_risk": 0.2693827479122532,
+    "beta": 0.8116403344134359
+  },
+  "MTD": {
+    "company name": "Mettler Toledo",
+    "stock symbol": "MTD",
+    "price": 1318.36,
+    "mean_return": -0.0004957367293456594,
+    "annualized_mean_return": -0.11746482371021982,
+    "annualized_risk": 0.35264898377465176,
+    "beta": 1.1706159052922809
+  },
+  "MGM": {
+    "company name": "MGM Resorts",
+    "stock symbol": "MGM",
+    "price": 41.6,
+    "mean_return": 0.00013725551491314841,
+    "annualized_mean_return": 0.035191067802034404,
+    "annualized_risk": 0.45933924081915467,
+    "beta": 1.4114081982292388
+  },
+  "MCHP": {
+    "company name": "Microchip Technology",
+    "stock symbol": "MCHP",
+    "price": 65.22,
+    "mean_return": -0.0004909330154033442,
+    "annualized_mean_return": -0.11639530834249046,
+    "annualized_risk": 0.4245863035019504,
+    "beta": 1.5172115577675263
+  },
+  "MU": {
+    "company name": "Micron Technology",
+    "stock symbol": "MU",
+    "price": 70.13,
+    "mean_return": 0.0008782370750867833,
+    "annualized_mean_return": 0.24759614515632222,
+    "annualized_risk": 0.44114740646820233,
+    "beta": 1.3686254283860486
+  },
+  "MSFT": {
+    "company name": "Microsoft",
+    "stock symbol": "MSFT",
+    "price": 279.83,
+    "mean_return": 0.00011497183426627365,
+    "annualized_mean_return": 0.029394985385223116,
+    "annualized_risk": 0.34441228391038375,
+    "beta": 1.2441942768527579
+  },
+  "MAA": {
+    "company name": "Mid-America Apartment Communities",
+    "stock symbol": "MAA",
+    "price": 205.39,
+    "mean_return": 0.0014166404156394565,
+    "annualized_mean_return": 0.4286654512848378,
+    "annualized_risk": 0.27285558885922334,
+    "beta": 0.7793536326404851
+  },
+  "MRNA": {
+    "company name": "Moderna",
+    "stock symbol": "MRNA",
+    "price": 165.49,
+    "mean_return": 0.00133227391851589,
+    "annualized_mean_return": 0.3986529316325358,
+    "annualized_risk": 0.6107632949026146,
+    "beta": 1.3307136535317592
+  },
+  "MHK": {
+    "company name": "Mohawk Industries",
+    "stock symbol": "MHK",
+    "price": 123.71,
+    "mean_return": 0.0012963359339702894,
+    "annualized_mean_return": 0.38605987103705663,
+    "annualized_risk": 0.4441912441619716,
+    "beta": 1.177084389204585
+  },
+  "MOH": {
+    "company name": "Molina Healthcare",
+    "stock symbol": "MOH",
+    "price": 335.94,
+    "mean_return": 0.0007252493209119902,
+    "annualized_mean_return": 0.2004501201509008,
+    "annualized_risk": 0.27764775242491607,
+    "beta": 0.4703301433337781
+  },
+  "TAP": {
+    "company name": "Molson Coors Beverage Company",
+    "stock symbol": "TAP",
+    "price": 55.61,
+    "mean_return": 0.00003208890613679809,
+    "annualized_mean_return": 0.00811905682824099,
+    "annualized_risk": 0.2798183069833645,
+    "beta": 0.5955271504199741
+  },
+  "MDLZ": {
+    "company name": "Mondelez International",
+    "stock symbol": "MDLZ",
+    "price": 63.72,
+    "mean_return": -0.00031889443605579717,
+    "annualized_mean_return": -0.07722903205825005,
+    "annualized_risk": 0.20478302251316616,
+    "beta": 0.588493436504798
+  },
+  "MPWR": {
+    "company name": "Monolithic Power Systems",
+    "stock symbol": "MPWR",
+    "price": 409.38,
+    "mean_return": 0.00005250521912097961,
+    "annualized_mean_return": 0.013318884442058199,
+    "annualized_risk": 0.5715222888945674,
+    "beta": 1.8961654959770076
+  },
+  "MNST": {
+    "company name": "Monster Beverage",
+    "stock symbol": "MNST",
+    "price": 20.6475,
+    "mean_return": -0.0028576464063515303,
+    "annualized_mean_return": -0.5138109762042907,
+    "annualized_risk": 0.5501360353426291,
+    "beta": 0.66691779910149
+  },
+  "MCO": {
+    "company name": "Moody's Corporation",
+    "stock symbol": "MCO",
+    "price": 328.4,
+    "mean_return": 0.0005174089388957637,
+    "annualized_mean_return": 0.13923083952264115,
+    "annualized_risk": 0.33912355564697905,
+    "beta": 1.1780252032889411
+  },
+  "MS": {
+    "company name": "Morgan Stanley",
+    "stock symbol": "MS",
+    "price": 84.76,
+    "mean_return": -0.00005364216972374269,
+    "annualized_mean_return": -0.013427228959075999,
+    "annualized_risk": 0.29985426121541203,
+    "beta": 1.0425028906455083
+  },
+  "MOS": {
+    "company name": "Mosaic Company (The)",
+    "stock symbol": "MOS",
+    "price": 76.05,
+    "mean_return": 0.0024903924549649925,
+    "annualized_mean_return": 0.8716094605350231,
+    "annualized_risk": 0.5145881096999395,
+    "beta": 1.0402010360729599
+  },
+  "MSI": {
+    "company name": "Motorola Solutions",
+    "stock symbol": "MSI",
+    "price": 233.19,
+    "mean_return": -0.0007187195794205895,
+    "annualized_mean_return": -0.16571687140244673,
+    "annualized_risk": 0.2776440361644189,
+    "beta": 0.8733166517837798
+  },
+  "MSCI": {
+    "company name": "MSCI",
+    "stock symbol": "MSCI",
+    "price": 482.7,
+    "mean_return": -0.00020106724709647125,
+    "annualized_mean_return": -0.049411526983438425,
+    "annualized_risk": 0.3735809377650337,
+    "beta": 1.3284718159624067
+  },
+  "NDAQ": {
+    "company name": "Nasdaq, Inc.",
+    "stock symbol": "NDAQ",
+    "price": 60.4633,
+    "mean_return": 0.0004817369533478445,
+    "annualized_mean_return": 0.12904086555127203,
+    "annualized_risk": 0.27574915748499046,
+    "beta": 0.5428324278586546
+  },
+  "NTAP": {
+    "company name": "NetApp",
+    "stock symbol": "NTAP",
+    "price": 75.5,
+    "mean_return": 0.0006070713303105347,
+    "annualized_mean_return": 0.16524988611603186,
+    "annualized_risk": 0.30961098747616095,
+    "beta": 0.9906567793396551
+  },
+  "NFLX": {
+    "company name": "Netflix",
+    "stock symbol": "NFLX",
+    "price": 341.13,
+    "mean_return": 0.0010770588055740186,
+    "annualized_mean_return": 0.31163277843561143,
+    "annualized_risk": 0.7578094011996385,
+    "beta": 1.5581924490854457
+  },
+  "NWL": {
+    "company name": "Newell Brands",
+    "stock symbol": "NWL",
+    "price": 22.41,
+    "mean_return": 0.0026386737728578136,
+    "annualized_mean_return": 0.9426830702029669,
+    "annualized_risk": 0.41750089514113753,
+    "beta": 1.0151649298768404
+  },
+  "NEM": {
+    "company name": "Newmont",
+    "stock symbol": "NEM",
+    "price": 84.77,
+    "mean_return": 0.0024796534955244813,
+    "annualized_mean_return": 0.8665638465410337,
+    "annualized_risk": 0.3859830853071379,
+    "beta": 0.5930728329941309
+  },
+  "NWSA": {
+    "company name": "News Corp (Class A)",
+    "stock symbol": "NWSA",
+    "price": 21.17,
+    "mean_return": 0.0010731754760232816,
+    "annualized_mean_return": 0.3103512208411694,
+    "annualized_risk": 0.3698466459605256,
+    "beta": 1.027345322923878
+  },
+  "NWS": {
+    "company name": "News Corp (Class B)",
+    "stock symbol": "NWS",
+    "price": 21.48,
+    "mean_return": 0.0010959160148075148,
+    "annualized_mean_return": 0.31787371542591836,
+    "annualized_risk": 0.374562989232449,
+    "beta": 1.0141527952124219
+  },
+  "NEE": {
+    "company name": "NextEra Energy",
+    "stock symbol": "NEE",
+    "price": 82.81,
+    "mean_return": 0.0003894946312456003,
+    "annualized_mean_return": 0.10311008136314892,
+    "annualized_risk": 0.29186974575620805,
+    "beta": 0.787714043159198
+  },
+  "NKE": {
+    "company name": "Nike, Inc.",
+    "stock symbol": "NKE",
+    "price": 133.46,
+    "mean_return": 0.0005444870375425291,
+    "annualized_mean_return": 0.14702701691048015,
+    "annualized_risk": 0.40568505634567836,
+    "beta": 1.3447984737901197
+  },
+  "NI": {
+    "company name": "NiSource",
+    "stock symbol": "NI",
+    "price": 31.75,
+    "mean_return": 0.0006019428341693231,
+    "annualized_mean_return": 0.1637458206111173,
+    "annualized_risk": 0.2570846669869686,
+    "beta": 0.6248829555764777
+  },
+  "NDSN": {
+    "company name": "Nordson Corporation",
+    "stock symbol": "NDSN",
+    "price": 214.74,
+    "mean_return": 0.00010909193373333391,
+    "annualized_mean_return": 0.02787099496342882,
+    "annualized_risk": 0.305207103959046,
+    "beta": 0.9346919771182024
+  },
+  "NSC": {
+    "company name": "Norfolk Southern Railway",
+    "stock symbol": "NSC",
+    "price": 263.06,
+    "mean_return": 0.0010495554824942845,
+    "annualized_mean_return": 0.30258308466802863,
+    "annualized_risk": 0.27555010176384304,
+    "beta": 0.8638632545098727
+  },
+  "NTRS": {
+    "company name": "Northern Trust",
+    "stock symbol": "NTRS",
+    "price": 110.89,
+    "mean_return": 0.001237804684624275,
+    "annualized_mean_return": 0.36579119051583,
+    "annualized_risk": 0.3414815449195586,
+    "beta": 1.0529573994523633
+  },
+  "NOC": {
+    "company name": "Northrop Grumman",
+    "stock symbol": "NOC",
+    "price": 467.2,
+    "mean_return": 0.00005323875671112276,
+    "annualized_mean_return": 0.01350620533890945,
+    "annualized_risk": 0.2821101376775083,
+    "beta": 0.3963059993593908
+  },
+  "NCLH": {
+    "company name": "Norwegian Cruise Line Holdings",
+    "stock symbol": "NCLH",
+    "price": 21.64,
+    "mean_return": 0.0030526821401295427,
+    "annualized_mean_return": 1.1556754451043263,
+    "annualized_risk": 0.7383963151812492,
+    "beta": 1.9693196436846878
+  },
+  "NRG": {
+    "company name": "NRG Energy",
+    "stock symbol": "NRG",
+    "price": 39.19,
+    "mean_return": 0.0007703917403939295,
+    "annualized_mean_return": 0.21417395789616367,
+    "annualized_risk": 0.3824894489503203,
+    "beta": 0.9021376885790489
+  },
+  "NUE": {
+    "company name": "Nucor",
+    "stock symbol": "NUE",
+    "price": 165.32,
+    "mean_return": 0.0007701721526175233,
+    "annualized_mean_return": 0.21410682379042556,
+    "annualized_risk": 0.45942963760299327,
+    "beta": 1.2382156556245054
+  },
+  "NVDA": {
+    "company name": "Nvidia",
+    "stock symbol": "NVDA",
+    "price": 212.58,
+    "mean_return": -0.000338354547947331,
+    "annualized_mean_return": -0.08174465578214718,
+    "annualized_risk": 0.5979383758439909,
+    "beta": 2.0464942673325313
+  },
+  "NVR": {
+    "company name": "NVR, Inc.",
+    "stock symbol": "NVR",
+    "price": 4335.45,
+    "mean_return": -0.000956264284768846,
+    "annualized_mean_return": -0.21423215508310378,
+    "annualized_risk": 0.33167278897337554,
+    "beta": 1.026043551554988
+  },
+  "NXPI": {
+    "company name": "NXP Semiconductors",
+    "stock symbol": "NXPI",
+    "price": 170,
+    "mean_return": 0.00020868749439257908,
+    "annualized_mean_return": 0.05399084275264854,
+    "annualized_risk": 0.4159645311059861,
+    "beta": 1.436374137118669
+  },
+  "ORLY": {
+    "company name": "O'Reilly Auto Parts",
+    "stock symbol": "ORLY",
+    "price": 713.88,
+    "mean_return": -0.000804749271498616,
+    "annualized_mean_return": -0.1836225425103476,
+    "annualized_risk": 0.286177628423819,
+    "beta": 0.5257149693696891
+  },
+  "OXY": {
+    "company name": "Occidental Petroleum",
+    "stock symbol": "OXY",
+    "price": 59.34,
+    "mean_return": 0.00017303462524276766,
+    "annualized_mean_return": 0.04456544145626817,
+    "annualized_risk": 0.4570752527662392,
+    "beta": 0.9381284623606584
+  },
+  "ODFL": {
+    "company name": "Old Dominion",
+    "stock symbol": "ODFL",
+    "price": 264.75,
+    "mean_return": -0.0007043221664644029,
+    "annualized_mean_return": -0.16268230793686866,
+    "annualized_risk": 0.40802564888012577,
+    "beta": 1.256224757443141
+  },
+  "OMC": {
+    "company name": "Omnicom Group",
+    "stock symbol": "OMC",
+    "price": 78.69,
+    "mean_return": -0.0006383446863486681,
+    "annualized_mean_return": -0.14863490686165914,
+    "annualized_risk": 0.28178665303062894,
+    "beta": 0.8466767524941171
+  },
+  "ON": {
+    "company name": "ON Semiconductor",
+    "stock symbol": "ON",
+    "price": 53.26,
+    "mean_return": -0.000957941627114012,
+    "annualized_mean_return": -0.21456453937965037,
+    "annualized_risk": 0.5574672000531757,
+    "beta": 1.8362324374120094
+  },
+  "OKE": {
+    "company name": "ONEOK",
+    "stock symbol": "OKE",
+    "price": 71.3,
+    "mean_return": 0.0004961782176842129,
+    "annualized_mean_return": 0.13315513958920966,
+    "annualized_risk": 0.3456393182793301,
+    "beta": 1.027510306351639
+  },
+  "ORCL": {
+    "company name": "Oracle Corporation",
+    "stock symbol": "ORCL",
+    "price": 79.45,
+    "mean_return": -0.0006051702766795233,
+    "annualized_mean_return": -0.141483237467795,
+    "annualized_risk": 0.28806703574597453,
+    "beta": 0.861265550948878
+  },
+  "OGN": {
+    "company name": "Organon & Co.",
+    "stock symbol": "OGN",
+    "price": 34.9,
+    "mean_return": 0.0017877115413087285,
+    "annualized_mean_return": 0.5684707541154443,
+    "annualized_risk": 0.3473695880598322,
+    "beta": 0.6928443868824785
+  },
+  "OTIS": {
+    "company name": "Otis Worldwide",
+    "stock symbol": "OTIS",
+    "price": 74.75,
+    "mean_return": -0.00025354372896497064,
+    "annualized_mean_return": -0.06190224679892797,
+    "annualized_risk": 0.2542597037980449,
+    "beta": 0.849407033089353
+  },
+  "PCAR": {
+    "company name": "Paccar",
+    "stock symbol": "PCAR",
+    "price": 55.8067,
+    "mean_return": -0.0009276639664586812,
+    "annualized_mean_return": -0.20854307036332442,
+    "annualized_risk": 0.26775350249066815,
+    "beta": 0.791830651481932
+  },
+  "PKG": {
+    "company name": "Packaging Corporation of America",
+    "stock symbol": "PKG",
+    "price": 163.02,
+    "mean_return": 0.0006980952076193436,
+    "annualized_mean_return": 0.19226947941933137,
+    "annualized_risk": 0.29911920703349615,
+    "beta": 0.847116077494348
+  },
+  "PARA": {
+    "company name": "Paramount Global",
+    "stock symbol": "PARA",
+    "price": 36.41,
+    "mean_return": 0.0026060014020416935,
+    "annualized_mean_return": 0.926795268970741,
+    "annualized_risk": 0.5384590267439487,
+    "beta": 1.4295497955719771
+  },
+  "PH": {
+    "company name": "Parker Hannifin",
+    "stock symbol": "PH",
+    "price": 273.87,
+    "mean_return": -0.00047570441968222774,
+    "annualized_mean_return": -0.11299622071974169,
+    "annualized_risk": 0.3184417349198218,
+    "beta": 1.0816821357283493
+  },
+  "PAYX": {
+    "company name": "Paychex",
+    "stock symbol": "PAYX",
+    "price": 136.69,
+    "mean_return": 0.00104298084588969,
+    "annualized_mean_return": 0.30042899274873736,
+    "annualized_risk": 0.28054283439602234,
+    "beta": 0.994678804530697
+  },
+  "PAYC": {
+    "company name": "Paycom",
+    "stock symbol": "PAYC",
+    "price": 319.36,
+    "mean_return": 0.0006562331630624792,
+    "annualized_mean_return": 0.1797664792249407,
+    "annualized_risk": 0.49123029788054196,
+    "beta": 1.5854333190007304
+  },
+  "PYPL": {
+    "company name": "PayPal",
+    "stock symbol": "PYPL",
+    "price": 102.31,
+    "mean_return": 0.0016265782153924136,
+    "annualized_mean_return": 0.506162019095624,
+    "annualized_risk": 0.48487208748732613,
+    "beta": 1.5019315320602669
+  },
+  "PNR": {
+    "company name": "Pentair",
+    "stock symbol": "PNR",
+    "price": 52.43,
+    "mean_return": 0.00019839059982397996,
+    "annualized_mean_return": 0.0512600292817349,
+    "annualized_risk": 0.3420225559173707,
+    "beta": 1.139743579664675
+  },
+  "PEP": {
+    "company name": "PepsiCo",
+    "stock symbol": "PEP",
+    "price": 171.9,
+    "mean_return": -0.00021839395701951582,
+    "annualized_mean_return": -0.05355392946306059,
+    "annualized_risk": 0.18779398736580175,
+    "beta": 0.4967644551173756
+  },
+  "PKI": {
+    "company name": "PerkinElmer",
+    "stock symbol": "PKI",
+    "price": 161.42,
+    "mean_return": 0.0009903508625526353,
+    "annualized_mean_return": 0.28331287602630817,
+    "annualized_risk": 0.35907316821899227,
+    "beta": 1.124182598858701
+  },
+  "PFE": {
+    "company name": "Pfizer",
+    "stock symbol": "PFE",
+    "price": 53.12,
+    "mean_return": 0.0011891478649247906,
+    "annualized_mean_return": 0.34916681781371106,
+    "annualized_risk": 0.24360778216621456,
+    "beta": 0.5422274573365348
+  },
+  "PCG": {
+    "company name": "PG&E Corporation",
+    "stock symbol": "PCG",
+    "price": 12.3,
+    "mean_return": -0.0010717398643984568,
+    "annualized_mean_return": -0.23679093113694671,
+    "annualized_risk": 0.3085117677762853,
+    "beta": 0.7624288077310954
+  },
+  "PM": {
+    "company name": "Philip Morris International",
+    "stock symbol": "PM",
+    "price": 101.77,
+    "mean_return": 0.00011788142634256973,
+    "annualized_mean_return": 0.030149944340689405,
+    "annualized_risk": 0.2261142427699854,
+    "beta": 0.4672597977893375
+  },
+  "PSX": {
+    "company name": "Phillips 66",
+    "stock symbol": "PSX",
+    "price": 82.85,
+    "mean_return": -0.0005925270980774026,
+    "annualized_mean_return": -0.1387419271878092,
+    "annualized_risk": 0.4041247698242291,
+    "beta": 0.7580291651191768
+  },
+  "PNW": {
+    "company name": "Pinnacle West",
+    "stock symbol": "PNW",
+    "price": 77.54,
+    "mean_return": 0.00004803960168371007,
+    "annualized_mean_return": 0.012179259275499899,
+    "annualized_risk": 0.24925690343509918,
+    "beta": 0.5757635277228682
+  },
+  "PXD": {
+    "company name": "Pioneer Natural Resources",
+    "stock symbol": "PXD",
+    "price": 254.75,
+    "mean_return": 0.0007678163610368601,
+    "annualized_mean_return": 0.21338682517976304,
+    "annualized_risk": 0.4140152135020523,
+    "beta": 0.7971849882627404
+  },
+  "PNC": {
+    "company name": "PNC Financial Services",
+    "stock symbol": "PNC",
+    "price": 175,
+    "mean_return": 0.001545953757653004,
+    "annualized_mean_return": 0.4759170425003325,
+    "annualized_risk": 0.3206644538878192,
+    "beta": 1.0091402635449864
+  },
+  "POOL": {
+    "company name": "Pool Corporation",
+    "stock symbol": "POOL",
+    "price": 414.06,
+    "mean_return": 0.0011585579277441933,
+    "annualized_mean_return": 0.3388186277034888,
+    "annualized_risk": 0.43001805368559476,
+    "beta": 1.222529623997985
+  },
+  "PPG": {
+    "company name": "PPG Industries",
+    "stock symbol": "PPG",
+    "price": 128.27,
+    "mean_return": -0.00015368284467443116,
+    "annualized_mean_return": -0.03799059617986267,
+    "annualized_risk": 0.3473407573742238,
+    "beta": 1.1370950032566787
+  },
+  "PPL": {
+    "company name": "PPL Corporation",
+    "stock symbol": "PPL",
+    "price": 29.2,
+    "mean_return": 0.00020601738606687174,
+    "annualized_mean_return": 0.053282032250155265,
+    "annualized_risk": 0.23461212360166125,
+    "beta": 0.6633905207507081
+  },
+  "PFG": {
+    "company name": "Principal Financial Group",
+    "stock symbol": "PFG",
+    "price": 73.95,
+    "mean_return": 0.00004591678147361588,
+    "annualized_mean_return": 0.011637963504653959,
+    "annualized_risk": 0.3223063343796288,
+    "beta": 1.002968635377593
+  },
+  "PG": {
+    "company name": "Procter & Gamble",
+    "stock symbol": "PG",
+    "price": 158.57,
+    "mean_return": 0.0002737188614744984,
+    "annualized_mean_return": 0.07140161800297018,
+    "annualized_risk": 0.2083552774250442,
+    "beta": 0.49694454594319787
+  },
+  "PGR": {
+    "company name": "Progressive Corporation",
+    "stock symbol": "PGR",
+    "price": 112.11,
+    "mean_return": -0.0006919900101866575,
+    "annualized_mean_return": -0.16007430176363868,
+    "annualized_risk": 0.27545163407481243,
+    "beta": 0.6015991846749766
+  },
+  "PLD": {
+    "company name": "Prologis",
+    "stock symbol": "PLD",
+    "price": 162.7,
+    "mean_return": 0.0013308869062776212,
+    "annualized_mean_return": 0.3981647998510289,
+    "annualized_risk": 0.35170695261389545,
+    "beta": 1.1339789435920944
+  },
+  "PRU": {
+    "company name": "Prudential Financial",
+    "stock symbol": "PRU",
+    "price": 117.24,
+    "mean_return": 0.0013598489526808314,
+    "annualized_mean_return": 0.4083927340178086,
+    "annualized_risk": 0.29853537504293975,
+    "beta": 0.9723140991916415
+  },
+  "PEG": {
+    "company name": "Public Service Enterprise Group",
+    "stock symbol": "PEG",
+    "price": 72.8,
+    "mean_return": 0.0006475029047037352,
+    "annualized_mean_return": 0.1771755034754421,
+    "annualized_risk": 0.2507325206041787,
+    "beta": 0.6639722505187085
+  },
+  "PTC": {
+    "company name": "PTC",
+    "stock symbol": "PTC",
+    "price": 98.71,
+    "mean_return": -0.0007871779602118889,
+    "annualized_mean_return": -0.17999673970513852,
+    "annualized_risk": 0.35068562776048057,
+    "beta": 1.0668685841532186
+  },
+  "PSA": {
+    "company name": "Public Storage",
+    "stock symbol": "PSA",
+    "price": 408.5,
+    "mean_return": 0.0015258276103883015,
+    "annualized_mean_return": 0.46846187431566055,
+    "annualized_risk": 0.2975686263010021,
+    "beta": 0.7795347000674699
+  },
+  "PHM": {
+    "company name": "PulteGroup",
+    "stock symbol": "PHM",
+    "price": 42.21,
+    "mean_return": -0.001251188640024507,
+    "annualized_mean_return": -0.2705737053590247,
+    "annualized_risk": 0.39583104448430717,
+    "beta": 1.2407089510179556
+  },
+  "QRVO": {
+    "company name": "Qorvo",
+    "stock symbol": "QRVO",
+    "price": 113.38,
+    "mean_return": 0.0011466672555588081,
+    "annualized_mean_return": 0.33481753467905184,
+    "annualized_risk": 0.44000814403711436,
+    "beta": 1.451546468004284
+  },
+  "PWR": {
+    "company name": "Quanta Services",
+    "stock symbol": "PWR",
+    "price": 135.14,
+    "mean_return": -0.0006079738131224849,
+    "annualized_mean_return": -0.1420899256564444,
+    "annualized_risk": 0.35676824903323134,
+    "beta": 0.9920265075280774
+  },
+  "QCOM": {
+    "company name": "Qualcomm",
+    "stock symbol": "QCOM",
+    "price": 136.91,
+    "mean_return": 0.0009281764403366165,
+    "annualized_mean_return": 0.26338165576150585,
+    "annualized_risk": 0.4208574747597286,
+    "beta": 1.3997441353027675
+  },
+  "DGX": {
+    "company name": "Quest Diagnostics",
+    "stock symbol": "DGX",
+    "price": 135.92,
+    "mean_return": -0.00006846888108786855,
+    "annualized_mean_return": -0.017106738088635942,
+    "annualized_risk": 0.2333812655755049,
+    "beta": 0.5712469363770728
+  },
+  "RL": {
+    "company name": "Ralph Lauren Corporation",
+    "stock symbol": "RL",
+    "price": 108.52,
+    "mean_return": 0.000010060135496722315,
+    "annualized_mean_return": 0.0025383575814419412,
+    "annualized_risk": 0.40358049366653215,
+    "beta": 1.2367544206225527
+  },
+  "RJF": {
+    "company name": "Raymond James",
+    "stock symbol": "RJF",
+    "price": 111.8,
+    "mean_return": 0.0007997451615865574,
+    "annualized_mean_return": 0.22318148015280048,
+    "annualized_risk": 0.3411660178308689,
+    "beta": 1.027106458042278
+  },
+  "RTX": {
+    "company name": "Raytheon Technologies",
+    "stock symbol": "RTX",
+    "price": 104.27,
+    "mean_return": 0.00010863530074905815,
+    "annualized_mean_return": 0.027752735972201625,
+    "annualized_risk": 0.2501510857027419,
+    "beta": 0.6872862807380272
+  },
+  "O": {
+    "company name": "Realty Income",
+    "stock symbol": "O",
+    "price": 72.61,
+    "mean_return": 0.0007841665100425516,
+    "annualized_mean_return": 0.2183926882282492,
+    "annualized_risk": 0.2250710363038442,
+    "beta": 0.58655825113911
+  },
+  "REG": {
+    "company name": "Regency Centers",
+    "stock symbol": "REG",
+    "price": 70.58,
+    "mean_return": 0.0007719151927603715,
+    "annualized_mean_return": 0.21463982158266082,
+    "annualized_risk": 0.2951572924601899,
+    "beta": 0.9536664622218036
+  },
+  "REGN": {
+    "company name": "Regeneron",
+    "stock symbol": "REGN",
+    "price": 733.02,
+    "mean_return": -0.0001656532845876953,
+    "annualized_mean_return": -0.040888635956826125,
+    "annualized_risk": 0.32982524918993555,
+    "beta": 0.5975026176694866
+  },
+  "RF": {
+    "company name": "Regions Financial Corporation",
+    "stock symbol": "RF",
+    "price": 20.73,
+    "mean_return": 0.0006372086895157987,
+    "annualized_mean_return": 0.17412765557922505,
+    "annualized_risk": 0.34051936540589733,
+    "beta": 1.0054050531310605
+  },
+  "RSG": {
+    "company name": "Republic Services",
+    "stock symbol": "RSG",
+    "price": 132.71,
+    "mean_return": -0.000052243002203489914,
+    "annualized_mean_return": -0.013079293297174055,
+    "annualized_risk": 0.2166723701789354,
+    "beta": 0.5372854897489937
+  },
+  "RMD": {
+    "company name": "ResMed",
+    "stock symbol": "RMD",
+    "price": 234.21,
+    "mean_return": 0.00036407995590731403,
+    "annualized_mean_return": 0.09607043405579718,
+    "annualized_risk": 0.2918384686278553,
+    "beta": 0.8543421105345591
+  },
+  "RHI": {
+    "company name": "Robert Half",
+    "stock symbol": "RHI",
+    "price": 108.56,
+    "mean_return": 0.0016818134150100776,
+    "annualized_mean_return": 0.5272381739045138,
+    "annualized_risk": 0.3560408431428665,
+    "beta": 1.011940889516964
+  },
+  "ROK": {
+    "company name": "Rockwell Automation",
+    "stock symbol": "ROK",
+    "price": 261.66,
+    "mean_return": 0.00005979050672031522,
+    "annualized_mean_return": 0.015180833058186849,
+    "annualized_risk": 0.38309031541253735,
+    "beta": 1.160984362197908
+  },
+  "ROL": {
+    "company name": "Rollins, Inc.",
+    "stock symbol": "ROL",
+    "price": 34.9,
+    "mean_return": -0.0003177276139660288,
+    "annualized_mean_return": -0.07695757493648658,
+    "annualized_risk": 0.26739208911686296,
+    "beta": 0.5555421785366226
+  },
+  "ROP": {
+    "company name": "Roper Technologies",
+    "stock symbol": "ROP",
+    "price": 461.16,
+    "mean_return": 0.00029211119400659834,
+    "annualized_mean_return": 0.07637753755824539,
+    "annualized_risk": 0.2476972443208789,
+    "beta": 0.7971372657847627
+  },
+  "ROST": {
+    "company name": "Ross Stores",
+    "stock symbol": "ROST",
+    "price": 103.08,
+    "mean_return": 0.0003576849514684526,
+    "annualized_mean_return": 0.09430613019454137,
+    "annualized_risk": 0.4525957033444582,
+    "beta": 1.0017137586306337
+  },
+  "RCL": {
+    "company name": "Royal Caribbean Group",
+    "stock symbol": "RCL",
+    "price": 82.58,
+    "mean_return": 0.0018421011878799521,
+    "annualized_mean_return": 0.590077032639273,
+    "annualized_risk": 0.6602745745766933,
+    "beta": 1.798730563318046
+  },
+  "SPGI": {
+    "company name": "S&P Global",
+    "stock symbol": "SPGI",
+    "price": 387.59,
+    "mean_return": 0.0005480243791996793,
+    "annualized_mean_return": 0.1480493855080771,
+    "annualized_risk": 0.29069385969620065,
+    "beta": 0.9805482212986192
+  },
+  "CRM": {
+    "company name": "Salesforce",
+    "stock symbol": "CRM",
+    "price": 189.41,
+    "mean_return": 0.0002136561813836637,
+    "annualized_mean_return": 0.05531110188138122,
+    "annualized_risk": 0.4490038917510095,
+    "beta": 1.3997980461697526
+  },
+  "SBAC": {
+    "company name": "SBA Communications",
+    "stock symbol": "SBAC",
+    "price": 355.38,
+    "mean_return": 0.0014154035365180264,
+    "annualized_mean_return": 0.42822084436212093,
+    "annualized_risk": 0.3345628840956063,
+    "beta": 0.9295637362255591
+  },
+  "SLB": {
+    "company name": "Schlumberger",
+    "stock symbol": "SLB",
+    "price": 43.25,
+    "mean_return": -0.00028008545154638146,
+    "annualized_mean_return": -0.06815745347551683,
+    "annualized_risk": 0.4865642187335688,
+    "beta": 0.8695080196437249
+  },
+  "STX": {
+    "company name": "Seagate Technology",
+    "stock symbol": "STX",
+    "price": 81.41,
+    "mean_return": 0.0012845751615435522,
+    "annualized_mean_return": 0.3819633449359847,
+    "annualized_risk": 0.41863813648646164,
+    "beta": 1.2534890923805313
+  },
+  "SEE": {
+    "company name": "Sealed Air",
+    "stock symbol": "SEE",
+    "price": 67.42,
+    "mean_return": 0.0016655510449201678,
+    "annualized_mean_return": 0.5210025949367354,
+    "annualized_risk": 0.33551823564160466,
+    "beta": 1.0541421758888192
+  },
+  "SRE": {
+    "company name": "Sempra Energy",
+    "stock symbol": "SRE",
+    "price": 171.25,
+    "mean_return": 0.00048680584799426057,
+    "annualized_mean_return": 0.13048328135585008,
+    "annualized_risk": 0.24392911594337152,
+    "beta": 0.6456390836313665
+  },
+  "NOW": {
+    "company name": "ServiceNow",
+    "stock symbol": "NOW",
+    "price": 507.33,
+    "mean_return": 0.0007554364676554848,
+    "annualized_mean_return": 0.20961015267857075,
+    "annualized_risk": 0.5048598895766568,
+    "beta": 1.5525508247277964
+  },
+  "SHW": {
+    "company name": "Sherwin-Williams",
+    "stock symbol": "SHW",
+    "price": 252.9,
+    "mean_return": 0.000641813025847288,
+    "annualized_mean_return": 0.1754899063699753,
+    "annualized_risk": 0.36800852798728273,
+    "beta": 0.8643729324057187
+  },
+  "SPG": {
+    "company name": "Simon Property Group",
+    "stock symbol": "SPG",
+    "price": 127.88,
+    "mean_return": 0.0007611233583467564,
+    "annualized_mean_return": 0.21134356806454613,
+    "annualized_risk": 0.3265845642292665,
+    "beta": 1.0626814423945956
+  },
+  "SWKS": {
+    "company name": "Skyworks Solutions",
+    "stock symbol": "SWKS",
+    "price": 117.73,
+    "mean_return": 0.000580406428816769,
+    "annualized_mean_return": 0.15745078840099236,
+    "annualized_risk": 0.4141494387243177,
+    "beta": 1.4285560995205895
+  },
+  "SJM": {
+    "company name": "J.M. Smucker Company (The)",
+    "stock symbol": "SJM",
+    "price": 139.69,
+    "mean_return": -0.00025361664124017974,
+    "annualized_mean_return": -0.0619194875204907,
+    "annualized_risk": 0.22352577811584037,
+    "beta": 0.31677333144769637
+  },
+  "SNA": {
+    "company name": "Snap-on",
+    "stock symbol": "SNA",
+    "price": 211.16,
+    "mean_return": -0.00041652962957935307,
+    "annualized_mean_return": -0.09966407323668391,
+    "annualized_risk": 0.25510646153580935,
+    "beta": 0.8163399698686992
+  },
+  "SEDG": {
+    "company name": "SolarEdge",
+    "stock symbol": "SEDG",
+    "price": 300.66,
+    "mean_return": 0.0007112266222961564,
+    "annualized_mean_return": 0.19621858566883255,
+    "annualized_risk": 0.6835510772725913,
+    "beta": 1.5473711598281632
+  },
+  "SO": {
+    "company name": "Southern Company",
+    "stock symbol": "SO",
+    "price": 75.99,
+    "mean_return": 0.0002830831058273787,
+    "annualized_mean_return": 0.07393218048625871,
+    "annualized_risk": 0.226198934513612,
+    "beta": 0.5497577221776139
+  },
+  "LUV": {
+    "company name": "Southwest Airlines",
+    "stock symbol": "LUV",
+    "price": 46.76,
+    "mean_return": 0.0017417627067827005,
+    "annualized_mean_return": 0.5504456325604798,
+    "annualized_risk": 0.3517604584919955,
+    "beta": 0.9736808509939178
+  },
+  "SWK": {
+    "company name": "Stanley Black & Decker",
+    "stock symbol": "SWK",
+    "price": 140.32,
+    "mean_return": 0.0025918146788556236,
+    "annualized_mean_return": 0.9199369621729829,
+    "annualized_risk": 0.4581647731803482,
+    "beta": 1.1907165178308985
+  },
+  "SBUX": {
+    "company name": "Starbucks",
+    "stock symbol": "SBUX",
+    "price": 79.5,
+    "mean_return": -0.0010092965559890489,
+    "annualized_mean_return": -0.22467359624666894,
+    "annualized_risk": 0.31872588064991875,
+    "beta": 1.0063710350072057
+  },
+  "STT": {
+    "company name": "State Street Corporation",
+    "stock symbol": "STT",
+    "price": 75.81,
+    "mean_return": 0.0003497589690360338,
+    "annualized_mean_return": 0.09212337317801733,
+    "annualized_risk": 0.39068739792516244,
+    "beta": 1.2264283432216567
+  },
+  "STLD": {
+    "company name": "Steel Dynamics",
+    "stock symbol": "STLD",
+    "price": 88.32,
+    "mean_return": -0.00035180977621478084,
+    "annualized_mean_return": -0.0848539988156215,
+    "annualized_risk": 0.4679323616502899,
+    "beta": 1.117715818719312
+  },
+  "STE": {
+    "company name": "Steris",
+    "stock symbol": "STE",
+    "price": 244.46,
+    "mean_return": 0.0013716011460269944,
+    "annualized_mean_return": 0.4125642402470966,
+    "annualized_risk": 0.350254938675988,
+    "beta": 0.9016754526943559
+  },
+  "SYK": {
+    "company name": "Stryker Corporation",
+    "stock symbol": "SYK",
+    "price": 261.7,
+    "mean_return": -0.00022943359928300703,
+    "annualized_mean_return": -0.05618386178426382,
+    "annualized_risk": 0.31031033884745696,
+    "beta": 0.9911362228472408
+  },
+  "SYF": {
+    "company name": "Synchrony Financial",
+    "stock symbol": "SYF",
+    "price": 37.7,
+    "mean_return": 0.001268361425747734,
+    "annualized_mean_return": 0.3763355230260248,
+    "annualized_risk": 0.4468512278364493,
+    "beta": 1.383582381901199
+  },
+  "SNPS": {
+    "company name": "Synopsys",
+    "stock symbol": "SNPS",
+    "price": 294.77,
+    "mean_return": -0.0007441069327233859,
+    "annualized_mean_return": -0.17104113678913668,
+    "annualized_risk": 0.36706766555450615,
+    "beta": 1.2091980297411318
+  },
+  "SYY": {
+    "company name": "Sysco",
+    "stock symbol": "SYY",
+    "price": 86.27,
+    "mean_return": 0.0007069398514823933,
+    "annualized_mean_return": 0.1949279635007226,
+    "annualized_risk": 0.265633728542596,
+    "beta": 0.7635193511143182
+  },
+  "TMUS": {
+    "company name": "T-Mobile US",
+    "stock symbol": "TMUS",
+    "price": 132.96,
+    "mean_return": -0.00035931672610895,
+    "annualized_mean_return": -0.08658420564140723,
+    "annualized_risk": 0.2541971245521656,
+    "beta": 0.696601485009078
+  },
+  "TROW": {
+    "company name": "T. Rowe Price",
+    "stock symbol": "TROW",
+    "price": 138.96,
+    "mean_return": 0.001154448812732682,
+    "annualized_mean_return": 0.33743460238431666,
+    "annualized_risk": 0.41812004943530046,
+    "beta": 1.50047939739684
+  },
+  "TTWO": {
+    "company name": "Take-Two Interactive",
+    "stock symbol": "TTWO",
+    "price": 137.96,
+    "mean_return": 0.0007461418890670035,
+    "annualized_mean_return": 0.20678239885803018,
+    "annualized_risk": 0.4119162501859726,
+    "beta": 0.9429313133398763
+  },
+  "TPR": {
+    "company name": "Tapestry, Inc.",
+    "stock symbol": "TPR",
+    "price": 33.74,
+    "mean_return": -0.0005261154802347839,
+    "annualized_mean_return": -0.12419865575690159,
+    "annualized_risk": 0.4211985006295634,
+    "beta": 1.2172482621660912
+  },
+  "TRGP": {
+    "company name": "Targa Resources",
+    "stock symbol": "TRGP",
+    "price": 78.64,
+    "mean_return": 0.0004331763466568816,
+    "annualized_mean_return": 0.11531491869219535,
+    "annualized_risk": 0.4186116925265548,
+    "beta": 1.0766818955589714
+  },
+  "TGT": {
+    "company name": "Target Corporation",
+    "stock symbol": "TGT",
+    "price": 237.2,
+    "mean_return": 0.00195249502223564,
+    "annualized_mean_return": 0.6348466830120416,
+    "annualized_risk": 0.4980583920336041,
+    "beta": 1.262963141788139
+  },
+  "TEL": {
+    "company name": "TE Connectivity",
+    "stock symbol": "TEL",
+    "price": 120.88,
+    "mean_return": -0.000030136668673955983,
+    "annualized_mean_return": -0.007565789178421434,
+    "annualized_risk": 0.3101977516017048,
+    "beta": 1.14417770806797
+  },
+  "TDY": {
+    "company name": "Teledyne Technologies",
+    "stock symbol": "TDY",
+    "price": 480.24,
+    "mean_return": 0.0005450035081220121,
+    "annualized_mean_return": 0.14717623157489745,
+    "annualized_risk": 0.2869236551158082,
+    "beta": 0.936099852323281
+  },
+  "TFX": {
+    "company name": "Teleflex",
+    "stock symbol": "TFX",
+    "price": 336.62,
+    "mean_return": 0.001272362059143778,
+    "annualized_mean_return": 0.37772202634835095,
+    "annualized_risk": 0.35085068486052207,
+    "beta": 0.9057240616367691
+  },
+  "TER": {
+    "company name": "Teradyne",
+    "stock symbol": "TER",
+    "price": 106.02,
+    "mean_return": 0.0006287065127304639,
+    "annualized_mean_return": 0.17161631094696173,
+    "annualized_risk": 0.4399924372647176,
+    "beta": 1.531296755303162
+  },
+  "TSLA": {
+    "company name": "Tesla, Inc.",
+    "stock symbol": "TSLA",
+    "price": 328.333,
+    "mean_return": 0.003178192376900256,
+    "annualized_mean_return": 1.224727541658551,
+    "annualized_risk": 0.6733346277044241,
+    "beta": 1.7194908102975233
+  },
+  "TXN": {
+    "company name": "Texas Instruments",
+    "stock symbol": "TXN",
+    "price": 173.66,
+    "mean_return": 0.000026244333596778732,
+    "annualized_mean_return": 0.006635402667431345,
+    "annualized_risk": 0.2977069469646612,
+    "beta": 1.0476279407914668
+  },
+  "TXT": {
+    "company name": "Textron",
+    "stock symbol": "TXT",
+    "price": 68.65,
+    "mean_return": 0.0001578957169085828,
+    "annualized_mean_return": 0.04058866772405545,
+    "annualized_risk": 0.3162498277344608,
+    "beta": 1.1207540307080697
+  },
+  "TMO": {
+    "company name": "Thermo Fisher Scientific",
+    "stock symbol": "TMO",
+    "price": 568.9,
+    "mean_return": 0.00007985796801738778,
+    "annualized_mean_return": 0.020327245174357245,
+    "annualized_risk": 0.30927609504370085,
+    "beta": 0.973686852812293
+  },
+  "TJX": {
+    "company name": "TJX Companies",
+    "stock symbol": "TJX",
+    "price": 62.71,
+    "mean_return": -0.0006876588772399078,
+    "annualized_mean_return": -0.15915643466085483,
+    "annualized_risk": 0.289007142938293,
+    "beta": 0.7572065854905414
+  },
+  "TSCO": {
+    "company name": "Tractor Supply",
+    "stock symbol": "TSCO",
+    "price": 228.23,
+    "mean_return": -0.00005441198501460143,
+    "annualized_mean_return": -0.013618609393704961,
+    "annualized_risk": 0.34421095519359685,
+    "beta": 0.9796675712249455
+  },
+  "TT": {
+    "company name": "Trane Technologies",
+    "stock symbol": "TT",
+    "price": 148.05,
+    "mean_return": -0.0005106697094168337,
+    "annualized_mean_return": -0.12078132629600236,
+    "annualized_risk": 0.2997827627881594,
+    "beta": 0.990151563257204
+  },
+  "TDG": {
+    "company name": "TransDigm Group",
+    "stock symbol": "TDG",
+    "price": 638.48,
+    "mean_return": -0.0004928028143401529,
+    "annualized_mean_return": -0.11681176016472095,
+    "annualized_risk": 0.3272491110583059,
+    "beta": 1.1157486864817294
+  },
+  "TRV": {
+    "company name": "Travelers Companies (The)",
+    "stock symbol": "TRV",
+    "price": 184.24,
+    "mean_return": 0.00038623012926955203,
+    "annualized_mean_return": 0.10220332761233153,
+    "annualized_risk": 0.23991456952208137,
+    "beta": 0.49210579081060984
+  },
+  "TRMB": {
+    "company name": "Trimble Inc.",
+    "stock symbol": "TRMB",
+    "price": 67.47,
+    "mean_return": 0.001659341043272446,
+    "annualized_mean_return": 0.518628152696722,
+    "annualized_risk": 0.410188783693519,
+    "beta": 1.451732869864157
+  },
+  "TFC": {
+    "company name": "Truist",
+    "stock symbol": "TFC",
+    "price": 52.14,
+    "mean_return": 0.002011350648043166,
+    "annualized_mean_return": 0.6592261331545983,
+    "annualized_risk": 0.39305736157458415,
+    "beta": 1.0123070865392465
+  },
+  "TYL": {
+    "company name": "Tyler Technologies",
+    "stock symbol": "TYL",
+    "price": 404.83,
+    "mean_return": 0.000607878021687256,
+    "annualized_mean_return": 0.16548664560753745,
+    "annualized_risk": 0.39228806351067147,
+    "beta": 1.25259093289862
+  },
+  "TSN": {
+    "company name": "Tyson Foods",
+    "stock symbol": "TSN",
+    "price": 95.45,
+    "mean_return": 0.0019101101431236369,
+    "annualized_mean_return": 0.6175111278295766,
+    "annualized_risk": 0.2518555559466322,
+    "beta": 0.6376717832899054
+  },
+  "USB": {
+    "company name": "U.S. Bank",
+    "stock symbol": "USB",
+    "price": 52.71,
+    "mean_return": 0.001834389943396381,
+    "annualized_mean_return": 0.5869958003137352,
+    "annualized_risk": 0.3434167118438208,
+    "beta": 0.8866606628593692
+  },
+  "UDR": {
+    "company name": "UDR, Inc.",
+    "stock symbol": "UDR",
+    "price": 57.58,
+    "mean_return": 0.0014923266800246967,
+    "annualized_mean_return": 0.45613548061950504,
+    "annualized_risk": 0.28738472018866684,
+    "beta": 0.829749799439603
+  },
+  "ULTA": {
+    "company name": "Ulta Beauty",
+    "stock symbol": "ULTA",
+    "price": 415.65,
+    "mean_return": -0.0008364729053188908,
+    "annualized_mean_return": -0.19012825380710918,
+    "annualized_risk": 0.3284445726152273,
+    "beta": 0.8640173885076333
+  },
+  "UNP": {
+    "company name": "Union Pacific Corporation",
+    "stock symbol": "UNP",
+    "price": 246.21,
+    "mean_return": 0.0009820766618703141,
+    "annualized_mean_return": 0.28064246078741584,
+    "annualized_risk": 0.2719174744334643,
+    "beta": 0.7846853458959554
+  },
+  "UAL": {
+    "company name": "United Airlines Holdings",
+    "stock symbol": "UAL",
+    "price": 45.13,
+    "mean_return": 0.0006730300577118824,
+    "annualized_mean_return": 0.18476746822675305,
+    "annualized_risk": 0.4973133728310311,
+    "beta": 1.248432261886216
+  },
+  "UPS": {
+    "company name": "United Parcel Service",
+    "stock symbol": "UPS",
+    "price": 188.02,
+    "mean_return": 0.000019676928094509752,
+    "annualized_mean_return": 0.004970850985185349,
+    "annualized_risk": 0.2727693786561643,
+    "beta": 0.8796236330882683
+  },
+  "URI": {
+    "company name": "United Rentals",
+    "stock symbol": "URI",
+    "price": 331.07,
+    "mean_return": -0.0002691431913851255,
+    "annualized_mean_return": -0.0655836909841,
+    "annualized_risk": 0.42369384714260094,
+    "beta": 1.387856772118954
+  },
+  "UNH": {
+    "company name": "UnitedHealth Group",
+    "stock symbol": "UNH",
+    "price": 534.82,
+    "mean_return": 0.0003476219170820592,
+    "annualized_mean_return": 0.09153558747377888,
+    "annualized_risk": 0.24214083046179313,
+    "beta": 0.5440045323217938
+  },
+  "UHS": {
+    "company name": "Universal Health Services",
+    "stock symbol": "UHS",
+    "price": 151.14,
+    "mean_return": 0.0007132585253509353,
+    "annualized_mean_return": 0.19683081759128473,
+    "annualized_risk": 0.4038903864162441,
+    "beta": 1.0105673048311705
+  },
+  "VLO": {
+    "company name": "Valero Energy",
+    "stock symbol": "VLO",
+    "price": 104.86,
+    "mean_return": -0.00033622000531812157,
+    "annualized_mean_return": -0.08125042226557899,
+    "annualized_risk": 0.4660177734139253,
+    "beta": 0.7600550278961743
+  },
+  "VTR": {
+    "company name": "Ventas",
+    "stock symbol": "VTR",
+    "price": 60.67,
+    "mean_return": 0.0014393587128311326,
+    "annualized_mean_return": 0.4368563040418503,
+    "annualized_risk": 0.31155274352782364,
+    "beta": 0.7832147097954416
+  },
+  "VRSN": {
+    "company name": "Verisign",
+    "stock symbol": "VRSN",
+    "price": 215.4,
+    "mean_return": 0.00017352724825876853,
+    "annualized_mean_return": 0.044695100435154345,
+    "annualized_risk": 0.33776558440630083,
+    "beta": 1.1152878869092275
+  },
+  "VRSK": {
+    "company name": "Verisk",
+    "stock symbol": "VRSK",
+    "price": 213.3,
+    "mean_return": 0.0005403748820989984,
+    "annualized_mean_return": 0.14583965443414248,
+    "annualized_risk": 0.2724608815710313,
+    "beta": 0.8606641778386195
+  },
+  "VZ": {
+    "company name": "Verizon",
+    "stock symbol": "VZ",
+    "price": 53.83,
+    "mean_return": 0.001392050968618633,
+    "annualized_mean_return": 0.41985237778738926,
+    "annualized_risk": 0.23302654900738418,
+    "beta": 0.41543216038590314
+  },
+  "VRTX": {
+    "company name": "Vertex Pharmaceuticals",
+    "stock symbol": "VRTX",
+    "price": 287.97,
+    "mean_return": -0.00028323733417992677,
+    "annualized_mean_return": -0.06889750667992911,
+    "annualized_risk": 0.3178574992379756,
+    "beta": 0.6360203558836285
+  },
+  "VFC": {
+    "company name": "VF Corporation",
+    "stock symbol": "VFC",
+    "price": 56.2,
+    "mean_return": 0.0040220851421077395,
+    "annualized_mean_return": 1.7498120988044161,
+    "annualized_risk": 0.4695100519809182,
+    "beta": 1.2414245799270573
+  },
+  "VTRS": {
+    "company name": "Viatris",
+    "stock symbol": "VTRS",
+    "price": 10.96,
+    "mean_return": 0.0006265991463418951,
+    "annualized_mean_return": 0.17099467193956275,
+    "annualized_risk": 0.32790913144496925,
+    "beta": 0.7607255146785408
+  },
+  "VICI": {
+    "company name": "Vici Properties",
+    "stock symbol": "VICI",
+    "price": 29.09,
+    "mean_return": -0.00034233780564729124,
+    "annualized_mean_return": -0.0826662340419827,
+    "annualized_risk": 0.2582465809243896,
+    "beta": 0.757275599353401
+  },
+  "V": {
+    "company name": "Visa Inc.",
+    "stock symbol": "V",
+    "price": 212.79,
+    "mean_return": -0.000229401436338782,
+    "annualized_mean_return": -0.056176210309615726,
+    "annualized_risk": 0.26669297182510693,
+    "beta": 0.909763130380562
+  },
+  "VMC": {
+    "company name": "Vulcan Materials Company",
+    "stock symbol": "VMC",
+    "price": 174.77,
+    "mean_return": 0.00024291136290084076,
+    "annualized_mean_return": 0.06311813833652247,
+    "annualized_risk": 0.3085761191018211,
+    "beta": 1.0156510310954614
+  },
+  "WAB": {
+    "company name": "Wabtec",
+    "stock symbol": "WAB",
+    "price": 89.17,
+    "mean_return": -0.0003127771542246185,
+    "annualized_mean_return": -0.07580498273010505,
+    "annualized_risk": 0.2945847708387404,
+    "beta": 1.0212607743636564
+  },
+  "WBA": {
+    "company name": "Walgreens Boots Alliance",
+    "stock symbol": "WBA",
+    "price": 44.81,
+    "mean_return": 0.001108516919488398,
+    "annualized_mean_return": 0.3220605576828446,
+    "annualized_risk": 0.3140146822851215,
+    "beta": 0.8751709326224125
+  },
+  "WMT": {
+    "company name": "Walmart",
+    "stock symbol": "WMT",
+    "price": 157.08,
+    "mean_return": 0.00032512419659700087,
+    "annualized_mean_return": 0.08536678602842573,
+    "annualized_risk": 0.26747250944450685,
+    "beta": 0.49475031601778824
+  },
+  "WBD": {
+    "company name": "Warner Bros. Discovery",
+    "stock symbol": "WBD",
+    "price": 24.88,
+    "mean_return": 0.002949172315693678,
+    "annualized_mean_return": 1.1003367177867305,
+    "annualized_risk": 0.6176513596111404,
+    "beta": 1.4246663861562117
+  },
+  "WM": {
+    "company name": "Waste Management",
+    "stock symbol": "WM",
+    "price": 159.16,
+    "mean_return": -0.00006339661939709794,
+    "annualized_mean_return": -0.015849507921818606,
+    "annualized_risk": 0.21188670335970605,
+    "beta": 0.5065421874920116
+  },
+  "WAT": {
+    "company name": "Waters Corporation",
+    "stock symbol": "WAT",
+    "price": 295.39,
+    "mean_return": 0.00005627588133689393,
+    "annualized_mean_return": 0.01428215220279494,
+    "annualized_risk": 0.3390145022627177,
+    "beta": 0.9579599905293402
+  },
+  "WEC": {
+    "company name": "WEC Energy Group",
+    "stock symbol": "WEC",
+    "price": 103.19,
+    "mean_return": 0.0004118911335287923,
+    "annualized_mean_return": 0.10935103930420387,
+    "annualized_risk": 0.2408992653487866,
+    "beta": 0.5301451951117496
+  },
+  "WFC": {
+    "company name": "Wells Fargo",
+    "stock symbol": "WFC",
+    "price": 46.35,
+    "mean_return": 0.0006128221190742082,
+    "annualized_mean_return": 0.1669387581541899,
+    "annualized_risk": 0.3258915609555884,
+    "beta": 0.9612023700024765
+  },
+  "WELL": {
+    "company name": "Welltower",
+    "stock symbol": "WELL",
+    "price": 96.03,
+    "mean_return": 0.0011300799418479258,
+    "annualized_mean_return": 0.3292559562559534,
+    "annualized_risk": 0.295623080272709,
+    "beta": 0.7022708290068439
+  },
+  "WST": {
+    "company name": "West Pharmaceutical Services",
+    "stock symbol": "WST",
+    "price": 381.22,
+    "mean_return": 0.0005605787534634784,
+    "annualized_mean_return": 0.15168520496006166,
+    "annualized_risk": 0.4254534352702384,
+    "beta": 1.135048662851837
+  },
+  "WDC": {
+    "company name": "Western Digital",
+    "stock symbol": "WDC",
+    "price": 46.34,
+    "mean_return": 0.0014791307757692548,
+    "annualized_mean_return": 0.4513084962546128,
+    "annualized_risk": 0.47407671084936537,
+    "beta": 1.3735937384709618
+  },
+  "WRK": {
+    "company name": "WestRock",
+    "stock symbol": "WRK",
+    "price": 49.93,
+    "mean_return": 0.0022287453398585956,
+    "annualized_mean_return": 0.7524571231387842,
+    "annualized_risk": 0.3893714819192912,
+    "beta": 1.0676424595830292
+  },
+  "WY": {
+    "company name": "Weyerhaeuser",
+    "stock symbol": "WY",
+    "price": 39.9,
+    "mean_return": 0.0011429239831337744,
+    "annualized_mean_return": 0.33356042723203094,
+    "annualized_risk": 0.31383314676809204,
+    "beta": 1.0390923450409073
+  },
+  "WHR": {
+    "company name": "Whirlpool Corporation",
+    "stock symbol": "WHR",
+    "price": 170.55,
+    "mean_return": 0.0010612522498936413,
+    "annualized_mean_return": 0.3064241638172074,
+    "annualized_risk": 0.3675058054394251,
+    "beta": 1.0642662902826245
+  },
+  "WMB": {
+    "company name": "Williams Companies",
+    "stock symbol": "WMB",
+    "price": 35.52,
+    "mean_return": 0.0008133616762965907,
+    "annualized_mean_return": 0.22738247336401618,
+    "annualized_risk": 0.28886771259532634,
+    "beta": 0.7222359315607907
+  },
+  "WTW": {
+    "company name": "Willis Towers Watson",
+    "stock symbol": "WTW",
+    "price": 234.15,
+    "mean_return": 0.00004894581397839877,
+    "annualized_mean_return": 0.012410421280372841,
+    "annualized_risk": 0.24758869801675865,
+    "beta": 0.8048590522808429
+  },
+  "GWW": {
+    "company name": "W. W. Grainger",
+    "stock symbol": "GWW",
+    "price": 491.43,
+    "mean_return": -0.0010227901745951712,
+    "annualized_mean_return": -0.227308204845723,
+    "annualized_risk": 0.3035051550071324,
+    "beta": 0.8434103894236584
+  },
+  "WYNN": {
+    "company name": "Wynn Resorts",
+    "stock symbol": "WYNN",
+    "price": 73.97,
+    "mean_return": -0.0011092178004433598,
+    "annualized_mean_return": -0.24397287689694247,
+    "annualized_risk": 0.5223622301858492,
+    "beta": 1.2047498459318984
+  },
+  "XEL": {
+    "company name": "Xcel Energy",
+    "stock symbol": "XEL",
+    "price": 74.34,
+    "mean_return": 0.0003671592049891844,
+    "annualized_mean_return": 0.09692097165329994,
+    "annualized_risk": 0.24125703836776477,
+    "beta": 0.5764407429515154
+  },
+  "XYL": {
+    "company name": "Xylem Inc.",
+    "stock symbol": "XYL",
+    "price": 84.14,
+    "mean_return": -0.0006340212843718418,
+    "annualized_mean_return": -0.14770625030493945,
+    "annualized_risk": 0.3287683852474098,
+    "beta": 1.0655134963685995
+  },
+  "YUM": {
+    "company name": "Yum! Brands",
+    "stock symbol": "YUM",
+    "price": 122.97,
+    "mean_return": -0.00035515629835519084,
+    "annualized_mean_return": -0.0856257103569148,
+    "annualized_risk": 0.21394251328176922,
+    "beta": 0.65558977336025
+  },
+  "ZBRA": {
+    "company name": "Zebra Technologies",
+    "stock symbol": "ZBRA",
+    "price": 393.68,
+    "mean_return": 0.0014987736456023774,
+    "annualized_mean_return": 0.4584995540292123,
+    "annualized_risk": 0.4697895357120071,
+    "beta": 1.5054923470430464
+  },
+  "ZBH": {
+    "company name": "Zimmer Biomet",
+    "stock symbol": "ZBH",
+    "price": 126,
+    "mean_return": -0.00011334232393012739,
+    "annualized_mean_return": -0.028159793274777467,
+    "annualized_risk": 0.2660988857022074,
+    "beta": 0.8533644559064001
+  },
+  "ZION": {
+    "company name": "Zions Bancorporation",
+    "stock symbol": "ZION",
+    "price": 62.92,
+    "mean_return": 0.003414645327463129,
+    "annualized_mean_return": 1.3608573175542045,
+    "annualized_risk": 0.5414262394564588,
+    "beta": 1.2491042791997744
+  },
+  "ZTS": {
+    "company name": "Zoetis",
+    "stock symbol": "ZTS",
+    "price": 187.3,
+    "mean_return": 0.0004741501748130427,
+    "annualized_mean_return": 0.12688537959376633,
+    "annualized_risk": 0.3132274398648396,
+    "beta": 0.9580442391283529
+  }
+}

@@ -1,10 +1,5 @@
-# final-project-money-makers
-
-![abstract poster](./Data%20Science%20PDF%20Poster.png)
-
-## Final Project Video
-[![Watch the video](https://img.youtube.com/vi/YQn5Gf2jQ8s/default.jpg)](https://www.youtube.com/watch?v=YQn5Gf2jQ8s)
-
+# Data Deliverable Component
+> Note: this is a copy of README.md, but a copy is made for pedagogy and to specify the hand-in for the data deliverable component; in short, for grading purposes. 
 
 ## Structure of repo
 
